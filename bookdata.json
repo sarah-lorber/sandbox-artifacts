@@ -1,0 +1,6637 @@
+[
+  {
+    "title": "Bartlett's Familiar Quotations",
+    "author": "",
+    "series": "dictionary"
+  },
+  {
+    "title": "Brewer's Dictionary of Phrase & Fable",
+    "author": "Brewer",
+    "series": "dictionary"
+  },
+  {
+    "title": "Brewer's Dictionary of Phrase & Fable",
+    "author": "Room",
+    "series": "dictionary"
+  },
+  {
+    "title": "British Crossword Puzzle Dictionary",
+    "author": "J.M. Bailie",
+    "series": "dictionary"
+  },
+  {
+    "title": "Classical Dictionary",
+    "author": "Lempriere",
+    "series": "dictionary"
+  },
+  {
+    "title": "Complete Rhyming Dictionary",
+    "author": "Clement Wood",
+    "series": "dictionary"
+  },
+  {
+    "title": "Descriptionary - A Thematic Dictionary",
+    "author": "Marc McCutcheon",
+    "series": "dictionary"
+  },
+  {
+    "title": "Dictionary of American Slang",
+    "author": "Chapman",
+    "series": "dictionary"
+  },
+  {
+    "title": "Dictionary of Contemporary American Usage",
+    "author": "Evans",
+    "series": "dictionary"
+  },
+  {
+    "title": "Dictionary of Word Origins",
+    "author": "Ayto",
+    "series": "dictionary"
+  },
+  {
+    "title": "Esar's Comic Dictionary",
+    "author": "",
+    "series": "dictionary"
+  },
+  {
+    "title": "Facts On File Dictionary of Classical, Biblical, & Literary Allusions",
+    "author": "Lass, Kiremidjian & Goldstein",
+    "series": "dictionary"
+  },
+  {
+    "title": "Oxford Dictionary of Quotations",
+    "author": "",
+    "series": "dictionary"
+  },
+  {
+    "title": "Reverse Dictionary",
+    "author": "Theodore M. Bernstein",
+    "series": "dictionary"
+  },
+  {
+    "title": "Roget's International Thesaurus of English Words and Phrases",
+    "author": "",
+    "series": "dictionary"
+  },
+  {
+    "title": "Webster's Biographical Dictionary",
+    "author": "",
+    "series": "dictionary"
+  },
+  {
+    "title": "Webster's Synonyms Antonyms and Homonyms",
+    "author": "Webster",
+    "series": "dictionary"
+  },
+  {
+    "title": "Bohemian-English English-Bohemian",
+    "author": "",
+    "series": "dictionary-foreign"
+  },
+  {
+    "title": "Bosnian-English English-Bosnian",
+    "author": "",
+    "series": "dictionary-foreign"
+  },
+  {
+    "title": "Breton-English English-Breton",
+    "author": "Leslie Meier",
+    "series": "dictionary-foreign"
+  },
+  {
+    "title": "Croatian-English English-Croation",
+    "author": "Leslie Meier",
+    "series": "dictionary-foreign"
+  },
+  {
+    "title": "Czech-English English-Czech",
+    "author": "",
+    "series": "dictionary-foreign"
+  },
+  {
+    "title": "English-Portugese Portugese-English",
+    "author": "",
+    "series": "dictionary-foreign"
+  },
+  {
+    "title": "Greek-English English-Greek (modern)",
+    "author": "",
+    "series": "dictionary-foreign"
+  },
+  {
+    "title": "Hungarian",
+    "author": "Leslie Meier",
+    "series": "dictionary-foreign"
+  },
+  {
+    "title": "Japanese-English English-Japanese",
+    "author": "",
+    "series": "dictionary-foreign"
+  },
+  {
+    "title": "Japanese-English English-Japanese (Romanized)",
+    "author": "Leslie Meier",
+    "series": "dictionary-foreign"
+  },
+  {
+    "title": "Portuguese-English English-Portuguese",
+    "author": "Leslie Meier",
+    "series": "dictionary-foreign"
+  },
+  {
+    "title": "Swedish-English English-Swedish",
+    "author": "",
+    "series": "dictionary-foreign"
+  },
+  {
+    "title": "Tagalog-English",
+    "author": "",
+    "series": "dictionary-foreign"
+  },
+  {
+    "title": "Turkish-English English-Turkish",
+    "author": "",
+    "series": "dictionary-foreign"
+  },
+  {
+    "title": "Chinese-English",
+    "author": "Erle Stanley Gardner",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "English-Danish Danish-English",
+    "author": "",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "English-French French-English",
+    "author": "",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "English-German German-English",
+    "author": "",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "English-Italian Italian-English",
+    "author": "",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "English-Latin Latin-English",
+    "author": "",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "English-Russian",
+    "author": "",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "English-Slovak Slovak-English",
+    "author": "",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "Esperanto-English English-Esperanto",
+    "author": "",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "Gaelic-English English-Gaelic",
+    "author": "",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "Hawaiin-English English-Hawaiin",
+    "author": "",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "Hebrew-English English-Hebrew",
+    "author": "",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "Ladino-English English-Ladino",
+    "author": "",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "Maigret and the Flemish Shop",
+    "author": "Georges Simenon",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "Maigret at the Gai-Moulin",
+    "author": "Georges Simenon",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "Norwegian-English",
+    "author": "",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "Portugese-English",
+    "author": "Erle Stanley Gardner",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "Russian-English",
+    "author": "",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "Scots-English English-Scots",
+    "author": "",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "Spanish-English English-Spanish",
+    "author": "",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "Swahili-English",
+    "author": "",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "Tibetan-English",
+    "author": "",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "Yiddish-English-Hebrew",
+    "author": "",
+    "series": "dictionary-foriegn"
+  },
+  {
+    "title": "Soviet Science Fiction",
+    "author": ""
+  },
+  {
+    "title": "Carpenters and Builders Library, Vol 1",
+    "author": "",
+    "series": "Audel"
+  },
+  {
+    "title": "Carpenters and Builders Library, Vol 2",
+    "author": "",
+    "series": "Audel"
+  },
+  {
+    "title": "Carpenters and Builders Library, Vol 3",
+    "author": "",
+    "series": "Audel"
+  },
+  {
+    "title": "Carpenters and Builders Library, Vol 4",
+    "author": "",
+    "series": "Audel"
+  },
+  {
+    "title": "Heating, Ventilating and Air Conditioning Library, Vol 1",
+    "author": "",
+    "series": "Audel"
+  },
+  {
+    "title": "Heating, Ventilating and Air Conditioning Library, Vol 2",
+    "author": "",
+    "series": "Audel"
+  },
+  {
+    "title": "Heating, Ventilating and Air Conditioning Library, Vol 3",
+    "author": "",
+    "series": "Audel"
+  },
+  {
+    "title": "Masons and Builders Guide #2",
+    "author": "",
+    "series": "Audel"
+  },
+  {
+    "title": "Plumbers and Pipe Fitters Library, Vol 1",
+    "author": "",
+    "series": "Audel"
+  },
+  {
+    "title": "Plumbers and Pipe Fitters Library, Vol 2",
+    "author": "",
+    "series": "Audel"
+  },
+  {
+    "title": "Plumbers and Pipe Fitters Library, Vol 3",
+    "author": "",
+    "series": "Audel"
+  },
+  {
+    "title": "Power Plant Engineers Guide",
+    "author": "",
+    "series": "Audel"
+  },
+  {
+    "title": "Q&A for Carpenters and Builders",
+    "author": "",
+    "series": "Audel"
+  },
+  {
+    "title": "Wood Furniture - Finishing, Refinishing, Repairing",
+    "author": "",
+    "series": "Audel"
+  },
+  {
+    "title": "Rim of Space",
+    "author": "A. Bertam Chandler"
+  },
+  {
+    "title": "Road to the Rim",
+    "author": "A. Bertam Chandler"
+  },
+  {
+    "title": "Ship from Outside",
+    "author": "A. Bertam Chandler"
+  },
+  {
+    "title": "Bedrooms Have Windows",
+    "author": "A.A. Fair"
+  },
+  {
+    "title": "Bigger They Come",
+    "author": "A.A. Fair"
+  },
+  {
+    "title": "Cut Thin to Win",
+    "author": "A.A. Fair"
+  },
+  {
+    "title": "Some Women Won't Wait",
+    "author": "A.A. Fair"
+  },
+  {
+    "title": "WANT: (all)",
+    "author": "A.A. Faire"
+  },
+  {
+    "title": "Weapon Makers",
+    "author": "A.E. Van Vogt"
+  },
+  {
+    "title": "Steel Construction Manual",
+    "author": "AISC"
+  },
+  {
+    "title": "WANT: (all - watch for changed titles)",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "ABC Murders",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "After the Funeral",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "And Then There Were None",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Appointment With Death",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "At Bertram's Hotel",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Big Four",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Body in the Library",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Boomerang Clue",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "By the Pricking of My Thumbs",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Cards on the Table",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Caribbean Mystery",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Cat Among the Pigeons",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Clocks",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Crooked House",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Curtain - Poirot's Last Case",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Dead Man's Folly",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Dead Man's Mirror",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Dead Man's Mirror",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Death Comes As The End",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Death Comes As the End",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Death in the Clouds",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Death on the Nile",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Double Sin",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Double Sin",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Easy to Kill",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Elephants Can Remember",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Endless Night",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Funerals are Fatal",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Halowee'en Party",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Harlequin Tea Set",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Hercule Poirot's Christmas",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Hickory Dickory Death",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Holiday for Murder",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Holiday for Murder",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Hollow",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Labors of Hercules",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Lord Edgeware Dies",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Mirror Crack'd from Side to Side",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Moving Finger",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Mr. Parker Pyne, Detective",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Mrs. McGinty's Dead",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Murder At the Vicarage",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Murder She Said",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Murder With Mirrors",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Murder at Hazelmoor",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Murder in Mesopotamia",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Murder in Retrospect",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Murder in the Calais Coach",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Murder is Announced",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Murder of Roger Ackroyd",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Murder on the Links",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Mustery of the Blue Train",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Mysterious Affair at Styles",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Mystery of the Blue Train",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "N orM?",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Nemesis",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Nemesis",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Ordeal by Inncence",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Pale Horse",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Partners in Crime",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Passenger to Frankfurt",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Passenger to Frankfurt",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Peril at End House",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Pocket Full of Rye",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Poirot Investigates",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Poirot Loses a Client",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Poirot Loses a Client",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Postern of Fate",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Regatta Mystery",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Regatta Mystery",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Secret Adversary",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Secret Adversary",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Secret of Chimneys",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Seven Dials Mystery",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "So Many Steps to Death",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Sparkling Cyanide",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Surprise! Surprise!",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "There is a Tide",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "They Came to Baghdad",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Third Girl",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Third Girl",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Thirteen Problems",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Three Act Tragedy",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Towards Zero",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Tuesday Club Murders",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Under Dog and other stories",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "What Mrs. McGillicuddy Saw",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Witness for the Prosecution",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "13 Clues for Miss Marple",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "13 at Dinner",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "13 for Luck",
+    "author": "Agatha Christie"
+  },
+  {
+    "title": "Psi High and Others",
+    "author": "Alan E. Nourse"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley"
+  },
+  {
+    "title": "Brave New World Revisited",
+    "author": "Aldous Huxley"
+  },
+  {
+    "title": "Son of Tarzan",
+    "author": "Aldous Huxley"
+  },
+  {
+    "title": "Tarzan of the Apes",
+    "author": "Aldous Huxley"
+  },
+  {
+    "title": "Kalahari Typing School for Men",
+    "author": "Alexander McCall Smith"
+  },
+  {
+    "title": "Mortaility for Beautiful Girls",
+    "author": "Alexander McCall Smith"
+  },
+  {
+    "title": "No. 1 Ladies' Detective Agency",
+    "author": "Alexander McCall Smith"
+  },
+  {
+    "title": "Tears of the Giraffe",
+    "author": "Alexander McCall Smith"
+  },
+  {
+    "title": "Dark Side of the Earth",
+    "author": "Alfred Bester"
+  },
+  {
+    "title": "Starburst",
+    "author": "Alfred Bester"
+  },
+  {
+    "title": "Glory",
+    "author": "Alfred Coppel"
+  },
+  {
+    "title": "Witches' Brew",
+    "author": "Alfred Hitchcock"
+  },
+  {
+    "title": "Man of Earth",
+    "author": "Algix Budrys"
+  },
+  {
+    "title": "Spy Wore Red",
+    "author": "Aline, Countess of Romanones"
+  },
+  {
+    "title": "Railroad Curves & Earthwork",
+    "author": "Allen"
+  },
+  {
+    "title": "TERRIBLE Murder in the Queen's Garden",
+    "author": "Amanda Caramack"
+  },
+  {
+    "title": "Theban Mysteries",
+    "author": "Amanda Cross"
+  },
+  {
+    "title": "WANT: (all Witch World)",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Breed to Come",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Brother to Shadows",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Catseye",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Crystal Gryphon",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Daybreak - 2250 A.D.",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Exiles of the Stars",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Flight of Vengeance",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Forerunner Foray",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Forerunner Foray",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Galactic Derelict",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Garan the Eternal",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Gryphon in Glory",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Gryphon's Eyrie",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Horn Crown",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Huon of the Horn",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Ice Crown",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Iron Cage",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Judgement on Janus",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Key of the Keplian",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Key out of Time",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Lavender-Green Magic",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Lord of Thunder",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Lord of Thunder",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Merlin's Mirror",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Moon Mirror",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Moon of Three Rings",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Operation Time Search",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Plague Ship",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Postmarked the Stars",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Quest Crosstime",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Red Hart Magic",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Scent of Magic",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Secret of the Lost Race",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Silver May Tarnish",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Songsmith",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Star Gate",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Star Gate",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Uncharted Stars",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Victory on Janus",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Voorloper",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "Zero Stone",
+    "author": "Andre Norton"
+  },
+  {
+    "title": "'Ware Hawk",
+    "author": "Andre Norton",
+    "series": "Witch World"
+  },
+  {
+    "title": "Gate of the Cat",
+    "author": "Andre Norton",
+    "series": "Witch World"
+  },
+  {
+    "title": "Lore of the Witch World",
+    "author": "Andre Norton",
+    "series": "Witch World"
+  },
+  {
+    "title": "Sorceress of the Witch World",
+    "author": "Andre Norton",
+    "series": "Witch World"
+  },
+  {
+    "title": "Spell of the Witch World",
+    "author": "Andre Norton",
+    "series": "Witch World"
+  },
+  {
+    "title": "Tales of the Witch World I",
+    "author": "Andre Norton",
+    "series": "Witch World"
+  },
+  {
+    "title": "Tales of the Witch World III",
+    "author": "Andre Norton",
+    "series": "Witch World"
+  },
+  {
+    "title": "Warding of the Witch World",
+    "author": "Andre Norton",
+    "series": "Witch World"
+  },
+  {
+    "title": "1 Witchworld",
+    "author": "Andre Norton",
+    "series": "Witch World"
+  },
+  {
+    "title": "2 Web of the Witch World",
+    "author": "Andre Norton",
+    "series": "Witch World"
+  },
+  {
+    "title": "3 Year of the Unicorn",
+    "author": "Andre Norton",
+    "series": "Witch World"
+  },
+  {
+    "title": "4 Three Against the Witch World",
+    "author": "Andre Norton",
+    "series": "Witch World"
+  },
+  {
+    "title": "5 Warlock of the Witch World",
+    "author": "Andre Norton",
+    "series": "Witch World"
+  },
+  {
+    "title": "6 Sorceress of the Witch World",
+    "author": "Andre Norton",
+    "series": "Witch World"
+  },
+  {
+    "title": "7 Trey of Swords",
+    "author": "Andre Norton",
+    "series": "Witch World"
+  },
+  {
+    "title": "8 Zarsthor's Bane",
+    "author": "Andre Norton",
+    "series": "Witch World"
+  },
+  {
+    "title": "Undying Wizard",
+    "author": "Andrew J. Offutt"
+  },
+  {
+    "title": "Bloody Chamber",
+    "author": "Angela Carter"
+  },
+  {
+    "title": "Merlin's Harp",
+    "author": "Anne Eliot Crompton"
+  },
+  {
+    "title": "All the Weyrs of Pern",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Coelura",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Crystal Line",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Crystal Singer",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Damia",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Damia's Children",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Death of Sleep",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Dolphins of Pern",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Dragondrums",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Dragonflight",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Dragongirl",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Dragonquest",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Dragonsdawn",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Dragonseye",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Dragonsinger",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Dragonsong",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Freedom's Challenge",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Freedom's Choice",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Freedom's Landing",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Freedom's Ransom",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Girl Who Heard Dragons",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Killashandra",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Moreta",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Nerilka's Story",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Pegasus in Flight",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Power Lines",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Rowan",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Ship Who Sang",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Ship Who Searched",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Ship Who Won",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Skies of Pern",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "White Dragon",
+    "author": "Anne McCaffrey"
+  },
+  {
+    "title": "Partnership",
+    "author": "Anne McCaffrey & Margaret Ball"
+  },
+  {
+    "title": "WANT: (all)",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Ashworth Hall",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Bedford Square",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Belgrave Square",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Belgrave Square",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Bethlehem Road",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Blood on the Water",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Bluegate Fields",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Breach of Promise",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Brunswick Gardens",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Cain His Brother",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Calander Square",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Cardington Crescent",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Cater Street Hangman",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Cater Street Hangman",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Dangerous Mourning",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Death in the Devil's Acre",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Death of a Stranger",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Defend and Betray",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Dorchester Terrace",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Execution Dock",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Face of a Stranger",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Farriers' Lane",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Funeral In Blue",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Half Moon Street",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Highgate Rise",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Highgate Rise",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Hyde Park Headsman",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Long Spoon Lane",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Paragon Walk",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Pentecost Alley",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Ressurrection Row",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Rutland Place",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Seven Dials",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Shifting Tide",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Silence in Hanover Close",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Silent Cry",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Sins of the Wolf",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Slaves of Obsession",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Southampton Row",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Sudden, Fearful Death",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Traitors Gate",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Treachery at Lancaster Gate",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Twisted Root",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Weighed in the Balance",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Whitechapel Conspiracy",
+    "author": "Anne Perry"
+  },
+  {
+    "title": "Messenger of Athens",
+    "author": "Anne Zouroudi"
+  },
+  {
+    "title": "Runes of the Lyre",
+    "author": "Ardath Mayhar"
+  },
+  {
+    "title": "Mistress of the Art of Death",
+    "author": "Ariana Franklin"
+  },
+  {
+    "title": "Handbook of Culvert and Drainage Practice",
+    "author": "Armco"
+  },
+  {
+    "title": "Jar City",
+    "author": "Arnaldur Indridason"
+  },
+  {
+    "title": "Childhood's End",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "title": "Earthlight",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "title": "Fall of Moondust",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "title": "Fountains of Paradise",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "title": "Garden of Rama",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "title": "Imperial Earth",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "title": "Lost Worlds of 2001",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "title": "Prelude to Space",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "title": "Rama II",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "title": "Rama Revealed",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "title": "Rendevous with Rama",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "title": "Songs of Distant Earth",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "title": "Time's Eye",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "title": "2010: Odyssey Two",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "title": "2061: Odyssey Three",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "title": "3001: The Final Odyssey",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "title": "Oh, God!",
+    "author": "Avery Corman"
+  },
+  {
+    "title": "Or All the Seas With Oysters",
+    "author": "Avram Davidson"
+  },
+  {
+    "title": "Best From Fantasy & Science Fiction Twelfth Series",
+    "author": "Avram Davidson, ed"
+  },
+  {
+    "title": "Call Mr. Fortune",
+    "author": "Bailey",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Mr. Fortune's Practice",
+    "author": "Bailey",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Mr. Fortune's Trials",
+    "author": "Bailey",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Dragonshadow",
+    "author": "Barbara Hambly"
+  },
+  {
+    "title": "Icefalcon's Quest",
+    "author": "Barbara Hambly"
+  },
+  {
+    "title": "Ladies of Mandrigyn",
+    "author": "Barbara Hambly"
+  },
+  {
+    "title": "Mother of Winter",
+    "author": "Barbara Hambly"
+  },
+  {
+    "title": "Night of the Demon Queen",
+    "author": "Barbara Hambly"
+  },
+  {
+    "title": "Silent Tower",
+    "author": "Barbara Hambly"
+  },
+  {
+    "title": "Anna's Book",
+    "author": "Barbara Vine"
+  },
+  {
+    "title": "Dragonsbane",
+    "author": "Barbra Hambly"
+  },
+  {
+    "title": "Magicians of Night",
+    "author": "Barbra Hambly"
+  },
+  {
+    "title": "Witches of Wenshar",
+    "author": "Barbra Hambly"
+  },
+  {
+    "title": "Detective's Holiday",
+    "author": "Barry",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Smaller Penny",
+    "author": "Barry",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Witness at the Window",
+    "author": "Barry",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Circus World",
+    "author": "Barry B. Longyear"
+  },
+  {
+    "title": "Death in Dublin",
+    "author": "Batholomew Gill"
+  },
+  {
+    "title": "Murder Duet",
+    "author": "Batya Gur"
+  },
+  {
+    "title": "Murder on a Kibbutz",
+    "author": "Batya Gur"
+  },
+  {
+    "title": "To Save the Sun",
+    "author": "Ben Bova & A.J. Austin"
+  },
+  {
+    "title": "Cats in Space",
+    "author": "Bill Fawcett, ed"
+  },
+  {
+    "title": "Mrs. Sherlock Holmes",
+    "author": "Brad Ricca"
+  },
+  {
+    "title": "Die Like a Dog",
+    "author": "Brett Halliday"
+  },
+  {
+    "title": "Heads You Lose",
+    "author": "Brett Halliday"
+  },
+  {
+    "title": "When Dorinda Dances",
+    "author": "Brett Halliday"
+  },
+  {
+    "title": "Race for God",
+    "author": "Brian Herbert"
+  },
+  {
+    "title": "Sidney's Comet",
+    "author": "Brian Herbert"
+  },
+  {
+    "title": "Martin the Warrior",
+    "author": "Brian Jacques"
+  },
+  {
+    "title": "There and Back Again: The Map of the Hobbit",
+    "author": "Brian Sibley & John Howe"
+  },
+  {
+    "title": "No Dream Is Too High",
+    "author": "Buzz Aldrin"
+  },
+  {
+    "title": "Dragonworld",
+    "author": "Byron Preiss & Michael Reaves"
+  },
+  {
+    "title": "Faded Sun: Kutath",
+    "author": "C.J. Cherryh"
+  },
+  {
+    "title": "Forty Thousand in Gehenna",
+    "author": "C.J. Cherryh"
+  },
+  {
+    "title": "Pride of Chanur",
+    "author": "C.J. Cherryh"
+  },
+  {
+    "title": "Lost Continent",
+    "author": "C.J. Cutliffe Hyne"
+  },
+  {
+    "title": "Alienist",
+    "author": "Caleb Carr"
+  },
+  {
+    "title": "Alienist",
+    "author": "Caleb Carr"
+  },
+  {
+    "title": "Murder in Montmartre",
+    "author": "Cara Black"
+  },
+  {
+    "title": "DO-NOT-WANT",
+    "author": "Carlene O'Connor"
+  },
+  {
+    "title": "Fleeced",
+    "author": "Carol Higgins Clark"
+  },
+  {
+    "title": "Remedy for Treason",
+    "author": "Caroline Roe"
+  },
+  {
+    "title": "Secret at Lone Tree Cottage",
+    "author": "Carolyn Keene",
+    "series": "Dana Girls",
+    "flags": "R"
+  },
+  {
+    "title": "1 The Secret of the Old Clock",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "RON"
+  },
+  {
+    "title": "2 The Hidden Staircase",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "RON"
+  },
+  {
+    "title": "3 The Bungalow Mystery",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "RO"
+  },
+  {
+    "title": "4 The Mystery at Lilac Inn",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "RON"
+  },
+  {
+    "title": "5 The Secret at Shadow Ranch",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "RO"
+  },
+  {
+    "title": "6 The Secret of Red Gate Farm",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "RO"
+  },
+  {
+    "title": "7 The Clue in the Diary",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "RON"
+  },
+  {
+    "title": "8 Nancy's Mysterious Letter",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "9 The Sign of the Twisted Candles",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "N"
+  },
+  {
+    "title": "10 Password to Larkspur Lane",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "RON"
+  },
+  {
+    "title": "11 The Clue of the Broken Locket",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "RON"
+  },
+  {
+    "title": "12 The Message in the Hollow Oak",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "13 The Mystery of the Ivory Charm",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "RO"
+  },
+  {
+    "title": "14 The Whispering Statue",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "RON"
+  },
+  {
+    "title": "15 The Haunted Bridge",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "16 The Clue of the Tapping Heels",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "RO"
+  },
+  {
+    "title": "17 Mystery of the Brass-Bound Trunk",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "RON"
+  },
+  {
+    "title": "18 Mystery of the Moss-Covered Mansion",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "RON"
+  },
+  {
+    "title": "19 The Quest of the Missing Map",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "20 The Clue in the Jewel Box",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "21 The Secret in the Old Attic",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "RO"
+  },
+  {
+    "title": "22 The Clue in the Crumbling Wall",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "23 Mystery of the Tolling Bell",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "24 The Clue in the Old Album",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "O"
+  },
+  {
+    "title": "25 The Ghost of Blackwood Hall",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "26 The Clue of the Leaning Chimney",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "27 The Secret of the Wooden Lady",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "RON"
+  },
+  {
+    "title": "28 The Clue of the Black Keys",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "29 Mustery at the Ski Jump",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "30 The Clue of the Velvet Mask",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "31 The Ringmaster's Secret",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "32 The Scarlet Slipper Mystery",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "O"
+  },
+  {
+    "title": "33 The Witch Tree Symbol",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "34 The Hiden Window Mystery",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "35 The Haunted Showboat",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "O"
+  },
+  {
+    "title": "36 The Secret of the Golden Pavillion",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "O"
+  },
+  {
+    "title": "37 The Clue in the Old Stagecoach",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "38 The Mystery of the Fire Dragon",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "39 The Clue of the Dancing Puppet",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "O"
+  },
+  {
+    "title": "40 The Moonstone Castle Mystery",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "O"
+  },
+  {
+    "title": "41 The Clue of the Whistling Bagpipes",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "O"
+  },
+  {
+    "title": "42 The Phantom of Pine Hill",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "O"
+  },
+  {
+    "title": "43 The Mystery of the 99 Steps",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "44 The Clue in the Crossword Cipher",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "O"
+  },
+  {
+    "title": "45 The Spiter Sapphire Mystery",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "O"
+  },
+  {
+    "title": "46 The Invisible Intruder",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "47 The Mysterious Mannequin",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "48 The Crooked Banister",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "N"
+  },
+  {
+    "title": "49 The Secret of Mirror Bay",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "50 The Double Jinx Mystery",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "N"
+  },
+  {
+    "title": "51 Mystery of the Glowing Eye",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "O"
+  },
+  {
+    "title": "52 The Secret of the Forgotton City",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "O"
+  },
+  {
+    "title": "53 The Sky Phantom",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "54 The Strange Message in the Parchment",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "N"
+  },
+  {
+    "title": "55 Mystery of Crocodile Island",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "O"
+  },
+  {
+    "title": "56 The Thirteenth Pearl",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "ON"
+  },
+  {
+    "title": "67 The Sinister Omen",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "P"
+  },
+  {
+    "title": "68 The Elusive Heiress",
+    "author": "Carolyn Keene",
+    "series": "Nancy Drew",
+    "flags": "P"
+  },
+  {
+    "title": "Complete Steel",
+    "author": "Catherine Aird"
+  },
+  {
+    "title": "Last Respects",
+    "author": "Catherine Aird"
+  },
+  {
+    "title": "Late Phoenix",
+    "author": "Catherine Aird"
+  },
+  {
+    "title": "Creatures of the Cosmos",
+    "author": "Catherine Crook de Camp, ed"
+  },
+  {
+    "title": "Magic Man",
+    "author": "Charles Beaumont"
+  },
+  {
+    "title": "Unholy City",
+    "author": "Charles G. Finney"
+  },
+  {
+    "title": "Baroque Fable",
+    "author": "Chelsea Quinn Yarbro"
+  },
+  {
+    "title": "Her Majesty's Wizard",
+    "author": "Christopher Stasheff"
+  },
+  {
+    "title": "Little Green Men",
+    "author": "Christorpher Buckley"
+  },
+  {
+    "title": "Cuckoo's Egg",
+    "author": "Cliff Stoll"
+  },
+  {
+    "title": "All the Traps of Earth",
+    "author": "Clifford D. Simak"
+  },
+  {
+    "title": "City",
+    "author": "Clifford D. Simak"
+  },
+  {
+    "title": "Strangers in the Universe",
+    "author": "Clifford D. Simak"
+  },
+  {
+    "title": "Time & Again",
+    "author": "Clifford D. Simak"
+  },
+  {
+    "title": "Worlds Without End",
+    "author": "Clifford D. Simak"
+  },
+  {
+    "title": "Death is Now My Neighbor",
+    "author": "Colin Dexter"
+  },
+  {
+    "title": "Riddle of the Third Mile",
+    "author": "Colin Dexter"
+  },
+  {
+    "title": "Service of All the Dead",
+    "author": "Colin Dexter"
+  },
+  {
+    "title": "American Electricians' Handbook",
+    "author": "Croft"
+  },
+  {
+    "title": "In Deep",
+    "author": "Damon Knight"
+  },
+  {
+    "title": "Angels and Demons",
+    "author": "Dan Brown"
+  },
+  {
+    "title": "Da Vinci Code",
+    "author": "Dan Brown"
+  },
+  {
+    "title": "Deception Point",
+    "author": "Dan Brown"
+  },
+  {
+    "title": "Lost Symbol",
+    "author": "Dan Brown"
+  },
+  {
+    "title": "Origin",
+    "author": "Dan Brown"
+  },
+  {
+    "title": "Inferno",
+    "author": "Dan Brown"
+  },
+  {
+    "title": "Confessor",
+    "author": "Daniel Silva"
+  },
+  {
+    "title": "Mary Anne",
+    "author": "Daphne Du Maurier"
+  },
+  {
+    "title": "How to Lie with Statistics",
+    "author": "Darrell Huff"
+  },
+  {
+    "title": "Glass Key",
+    "author": "Dashiell Hammett"
+  },
+  {
+    "title": "Maltese Falcon",
+    "author": "Dashiell Hammett"
+  },
+  {
+    "title": "Red Harvest",
+    "author": "Dashiell Hammett"
+  },
+  {
+    "title": "Thin Man",
+    "author": "Dashiell Hammett"
+  },
+  {
+    "title": "Pawn of Prophecy",
+    "author": "David Eddings"
+  },
+  {
+    "title": "Night of the Dragonstar",
+    "author": "David F. Bischoff and Thomas F. Monteleone"
+  },
+  {
+    "title": "With a Finger In My I",
+    "author": "David Gerrold"
+  },
+  {
+    "title": "Gods of Foxcroft",
+    "author": "David Levy"
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "author": "Diana Wynne Jones"
+  },
+  {
+    "title": "Queen's Gambit",
+    "author": "Diane A.S. Stuckart"
+  },
+  {
+    "title": "Bohemian Murders",
+    "author": "Dianne Day"
+  },
+  {
+    "title": "Archy and Mehitabel",
+    "author": "Don Marquis"
+  },
+  {
+    "title": "Carmen Mirana's Ghost is Haunting Space Station Three",
+    "author": "Don Sakers, ed"
+  },
+  {
+    "title": "World's Best Science Fiction: 1965",
+    "author": "Donald A. Wollheim & Terry Carr, eds"
+  },
+  {
+    "title": "Point of Honor",
+    "author": "Dorothy J. Heydt"
+  },
+  {
+    "title": "Busman's Honeymoon",
+    "author": "Dorothy L. Sayers"
+  },
+  {
+    "title": "Death and Blintzes",
+    "author": "Dorothy and Sidney Rosen"
+  },
+  {
+    "title": "Dirk Gently's Holistic Detective Agency",
+    "author": "Douglas Adams"
+  },
+  {
+    "title": "Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams"
+  },
+  {
+    "title": "Life, the Universe and Everything",
+    "author": "Douglas Adams"
+  },
+  {
+    "title": "Long Dark Tea-Time of the Soul",
+    "author": "Douglas Adams"
+  },
+  {
+    "title": "Mostly Harmless",
+    "author": "Douglas Adams"
+  },
+  {
+    "title": "Restaurant at the End of the Universe",
+    "author": "Douglas Adams"
+  },
+  {
+    "title": "So Long, and Thanks for All the Fish",
+    "author": "Douglas Adams"
+  },
+  {
+    "title": "Theory and Practice of Reinforced Concrete",
+    "author": "Dunham"
+  },
+  {
+    "title": "Space-Born",
+    "author": "E.C. Tubb"
+  },
+  {
+    "title": "Skylark of Space",
+    "author": "E.E. 'Doc' Smith"
+  },
+  {
+    "title": "Triplanetary",
+    "author": "E.E. 'Doc' Smith"
+  },
+  {
+    "title": "Worm Ouroboros",
+    "author": "E.R. Eddison"
+  },
+  {
+    "title": "Million-Dollar Tattoo",
+    "author": "Earl Emerson"
+  },
+  {
+    "title": "Chessmen of Mars",
+    "author": "Edgar Rice Burroughs"
+  },
+  {
+    "title": "Master Mind of Mars",
+    "author": "Edgar Rice Burroughs"
+  },
+  {
+    "title": "Princess of Mars",
+    "author": "Edgar Rice Burroughs"
+  },
+  {
+    "title": "Thuvia, Maid of Mars",
+    "author": "Edgar Rice Burroughs"
+  },
+  {
+    "title": "Mythology",
+    "author": "Edith Hamilton"
+  },
+  {
+    "title": "Moving Toyshop",
+    "author": "Edmund Crispin"
+  },
+  {
+    "title": "Introduction to Foundry Technology",
+    "author": "Ekey & Winter"
+  },
+  {
+    "title": "Deception",
+    "author": "Eleanor Cooney & Daniel Altieri"
+  },
+  {
+    "title": "Death on the Island",
+    "author": "Eliza Reid"
+  },
+  {
+    "title": "Great Deliverance",
+    "author": "Elizabeth George"
+  },
+  {
+    "title": "Keeper of Cats",
+    "author": "Elizabeth H. Boyer"
+  },
+  {
+    "title": "Sew Deadly",
+    "author": "Elizabeth Lynn Casey"
+  },
+  {
+    "title": "Lady of the Lake",
+    "author": "Elizabeth Mayne"
+  },
+  {
+    "title": "Camelot Caper",
+    "author": "Elizabeth Peters"
+  },
+  {
+    "title": "WANT: (all)",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Beware the Young Stranger",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Cat of Many Tails",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Chinese Orange Mystery",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Cop Out",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Copper Frame",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Dead Man's Tale",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Death Spins the Platter",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Devil to Pay",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Devil's Cook",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Door Between",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Door Between",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Double, Double",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Dragon's Teeth",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Dragon's Teeth",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Drury Lane's Last Case",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Egyptian Cross Mystery",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Finishing Stroke",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Four Johns",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Fourth Side of the Triangle",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Glass Village",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Green Turtle Mystery",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "How Goes the Murder?",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Kill as Directed",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Kiss and Kill",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Last Score",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Last Woman in His Life",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Madman Theory",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Murder with a Past",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "New Adventures of Ellery Queen",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Perfect Crime",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Player on the Other Side",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Q. B. I.",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Quick and the Dead",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Room to Die In",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Shoot the Scene",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Shoot the Scene",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Siamese Twin Mystery",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Study in Terror",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "There Was an Old Woman",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Tragedy of Z",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Who Killed the Golden Goose",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Who Spies, Who Kills?",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Wife or Death",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "12",
+    "author": "Ellery Queen"
+  },
+  {
+    "title": "Double Dozen",
+    "author": "Ellery Queen, ed"
+  },
+  {
+    "title": "WANT: (all Cadfael)",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "An Excellent Mystery",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Brother Cadfael's Apprentice",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Brother Cadfael's Penance",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Brother Cadfael's Penance",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Brother Cadfael's Penance",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Confession of Brother Haluin",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Dead Man's Ransom",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Heretic's Apprentice",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Heretic's Apprentice",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Heretic's Apprentice",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Hermit of Eyton Forest",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Holy Thief",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Knocker on Death's Door",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Monk's Hood",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Never Pick Up Hitchhikers!",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Nice Derangement of Epitaphs",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "One Corpse Too Many",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Potter's Field",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Potter's Field",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Potter's Field",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Potter's Field",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Rare Benedictine",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Raven in the Foregate",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Raven in the Foregate",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Rose Rent",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Sanctuary Sparrow",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "St. Peter's Fair",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Summer of the Danes",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Summer of the Danes",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Virgin in the Ice",
+    "author": "Ellis Peters"
+  },
+  {
+    "title": "Inspector and Mrs. Jeffries",
+    "author": "Emily Brightwell"
+  },
+  {
+    "title": "Look Back, Mrs. Lot!",
+    "author": "Ephraim Kishon"
+  },
+  {
+    "title": "Deep Space",
+    "author": "Eric Frank Russell"
+  },
+  {
+    "title": "Men, Martians and Machines",
+    "author": "Eric Frank Russell"
+  },
+  {
+    "title": "Mindwarpers",
+    "author": "Eric Frank Russell"
+  },
+  {
+    "title": "Black Blade",
+    "author": "Eric Van Lustbader"
+  },
+  {
+    "title": "Jian",
+    "author": "Eric Van Lustbader"
+  },
+  {
+    "title": "Miko",
+    "author": "Eric Van Lustbader"
+  },
+  {
+    "title": "WANT: (all)",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Amorous Aunt",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Angry Mourner",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Baited Hook",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Baited Hook",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Beautiful Beggar",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Bedrooms HAve Windows",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Blonde Bonanza",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Borrowed Brunette",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Buried Clock",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Careless Cupid",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Careless Kitten",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Case of the Deadly Toy",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Case of the Drowning Duck",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Count of 9",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Crimson Kiss",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Curious Bride",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "D.A. Breaks a Seal",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "D.A. Cooks a Goose",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "D.A. Holds a Candle",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Dangerous Dowager",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Daring Decoy",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Daring Divorcee",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Demure Defendent",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Double or Quits",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Drowsy Mosquito",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Dubious Bridegroom",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Duplicate Daughter",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Empty Tin",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Fiery Fingers",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Fiery Fingers",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Fish or Cut Bait",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Fools Die on Friday",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Gilded Lily",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Glamorous Ghost",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Green-Eyed Sister",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Haunted Husband",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Hesitant Hostess",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Horrified Heirs",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Ice-Cold Hands",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Ice-cold Hands",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Mischievous Doll",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Moth-Eaten Mink",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Moth-eaten Mink",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Negligent Nymph",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Nervous Accomplice",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Pass the Gravy",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Perjured Parrot",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Restless Redhead",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Rolling Bones",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Shapely Shadow",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Shoplifter's Shoe",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Silent Partner",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Singing Skirt",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Smoking Chimney",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Spill The Jackpot",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Spurious Spinster",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Stuttering Bishop",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Substitute Face",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Sun Bather's Diary",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Terrified Typist",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Troubled Trustee",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Turning Tide",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Velve Claws",
+    "author": "Erle Stanley Gardner"
+  },
+  {
+    "title": "Best Max Carrados Detective Stories",
+    "author": "Ernest Bramah"
+  },
+  {
+    "title": "Spiral Staircase",
+    "author": "Ethel Lina White"
+  },
+  {
+    "title": "Albatross",
+    "author": "Evelyn Anthony"
+  },
+  {
+    "title": "Illusionists",
+    "author": "Faren Miller"
+  },
+  {
+    "title": "Force of Star Wars",
+    "author": "Frank Allnutt"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert"
+  },
+  {
+    "title": "Jesus Incident",
+    "author": "Frank Herbert & Bill Ransom"
+  },
+  {
+    "title": "Lazarus Effect",
+    "author": "Frank Herbert & Bill Ransom"
+  },
+  {
+    "title": "Hardy Boys Detective Handbook",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "1 The Tower Treasure",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RON"
+  },
+  {
+    "title": "2 The House on the Cliff",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RO"
+  },
+  {
+    "title": "3 The Secret of the Old Mill",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RO"
+  },
+  {
+    "title": "4 The Missing Chums",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RON"
+  },
+  {
+    "title": "5 Hunting for Hidden Gold",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RON"
+  },
+  {
+    "title": "6 The Shore Road Mystery",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RON"
+  },
+  {
+    "title": "7 The Secret of the Caves",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "OR"
+  },
+  {
+    "title": "8 The Mystery of Cabin Island",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "9 The Great Airport Mystery",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "OR"
+  },
+  {
+    "title": "10 What Happened at Midnight",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RO"
+  },
+  {
+    "title": "11 While the Clock Ticked",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "12 Footprints Under the Window",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RO"
+  },
+  {
+    "title": "13 The Mark on the Door",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RO"
+  },
+  {
+    "title": "14 The Hidden Harbor Mystery",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RN"
+  },
+  {
+    "title": "15 The Sinister Sign Post",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RO"
+  },
+  {
+    "title": "16 A Figure in Hiding",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "17 The Secret Warning",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RO"
+  },
+  {
+    "title": "18 The Twisted Claw",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RO"
+  },
+  {
+    "title": "19 The Disappearing Floor",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RO"
+  },
+  {
+    "title": "20 Mystery of the Flying Express",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "21 The Clue of the Broken Blade",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RO"
+  },
+  {
+    "title": "22 The Flickering Torch Mystery",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "23 The Melted Coins",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "24 The Shortwave Mystery",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RO"
+  },
+  {
+    "title": "25 The Secret Panel",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RO"
+  },
+  {
+    "title": "26 The Phantom Freighter",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RO"
+  },
+  {
+    "title": "27 The Secret of Skull Mountain",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "28 The Sign of the Crooked Arrow",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "29 The Secret of the Lost Tunnel",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RO"
+  },
+  {
+    "title": "30 The Wailing Siren Mystery",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "31 The Secret of Wildcat Swamp",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "32 The Crisscross Shadow",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "33 The Yellow Feather Mystery",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "34 The Hooded Hawk Mystery",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RO"
+  },
+  {
+    "title": "35 The Clue in the Embers",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RO"
+  },
+  {
+    "title": "36 The Secret of Pirates Hill",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "37 The Ghost at Skeleton Rock",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RO"
+  },
+  {
+    "title": "38 Mystery at Devil's Paw",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "RO"
+  },
+  {
+    "title": "39 The Mystery of the Chinese Junk",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "40 Mystery of the Desert Giant",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "ON"
+  },
+  {
+    "title": "41 The Clue of the Screeching Owl",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "ON"
+  },
+  {
+    "title": "42 The Viking Symbol Mystery",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "43 The Mystery of the Aztec Warrior",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "ON"
+  },
+  {
+    "title": "44 The Haunted Fort",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "45 The Mystery of Spiral Bridge",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "46 The Secret Agent on Flight 101",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "47 Mystery of the Whale Tattoo",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "ON"
+  },
+  {
+    "title": "48 The Arctic Patrol Mystery",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "49 The Bombay Boomerang",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "50 Danger on Vampire Trail",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "51 The Masked Monkey",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "52 The Shattered Helmet",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "53 The Clue of the Hissing Serpent",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "54 The Mysterious Caravan",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "55 The Witchmaster's Key",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "56 The Jungle Pyramid",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "57 The Firebird Rocket",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "58 The Sting of the Scorpion",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "O"
+  },
+  {
+    "title": "67 The Outlaw's Silver",
+    "author": "Franklin W.  Dixon",
+    "series": "Hardy Boys",
+    "flags": "P"
+  },
+  {
+    "title": "Star of the Unborn",
+    "author": "Franz Werfel"
+  },
+  {
+    "title": "Berserkers Planet",
+    "author": "Fred Saberhagen"
+  },
+  {
+    "title": "Space on My Hands",
+    "author": "Frederic Brown"
+  },
+  {
+    "title": "Man Who Ate the World",
+    "author": "Frederik Pohl"
+  },
+  {
+    "title": "Slave Ship",
+    "author": "Frederik Pohl"
+  },
+  {
+    "title": "IF Reader of Science Fiction",
+    "author": "Frederik Pohl, ed"
+  },
+  {
+    "title": "Nightmares and Geezenstacks",
+    "author": "Fredric Brown"
+  },
+  {
+    "title": "Rogue in Space",
+    "author": "Fredric Brown"
+  },
+  {
+    "title": "Star Shine",
+    "author": "Fredric Brown"
+  },
+  {
+    "title": "Man Who Was Thursday",
+    "author": "G.K. Chesterton"
+  },
+  {
+    "title": "Blameless",
+    "author": "Gail Carriger"
+  },
+  {
+    "title": "Changeless",
+    "author": "Gail Carriger"
+  },
+  {
+    "title": "Heartless",
+    "author": "Gail Carriger"
+  },
+  {
+    "title": "Soulless",
+    "author": "Gail Carriger"
+  },
+  {
+    "title": "Timeless",
+    "author": "Gail Carriger"
+  },
+  {
+    "title": "Code Ezra",
+    "author": "Gay Courter"
+  },
+  {
+    "title": "Alchemists",
+    "author": "Geary Gravel"
+  },
+  {
+    "title": "Birth and Death of the Sun",
+    "author": "George Gamow"
+  },
+  {
+    "title": "Drainage and Flood Control Engineering",
+    "author": "George W. Pickels"
+  },
+  {
+    "title": "Inspector Maigret and the Burglar's Wife",
+    "author": "Georges Simenon"
+  },
+  {
+    "title": "Madame Maigret's Own Case",
+    "author": "Georges Simenon"
+  },
+  {
+    "title": "Maigret Has Scruples",
+    "author": "Georges Simenon"
+  },
+  {
+    "title": "Maigret Loses His Temper",
+    "author": "Georges Simenon"
+  },
+  {
+    "title": "Maigret and the Enigmatic Lett",
+    "author": "Georges Simenon"
+  },
+  {
+    "title": "Maigret and the Headless Corpse",
+    "author": "Georges Simenon"
+  },
+  {
+    "title": "Maigret and the Man on the Bench",
+    "author": "Georges Simenon"
+  },
+  {
+    "title": "Maigret and the Nahour Case",
+    "author": "Georges Simenon"
+  },
+  {
+    "title": "Maigret and the Toy Village",
+    "author": "Georges Simenon"
+  },
+  {
+    "title": "Maigret in Vichy",
+    "author": "Georges Simenon"
+  },
+  {
+    "title": "Methods of Maigret",
+    "author": "Georges Simenon"
+  },
+  {
+    "title": "Sailor's Rendezvous",
+    "author": "Georges Simenon"
+  },
+  {
+    "title": "Yellow Dog",
+    "author": "Georges Simenon"
+  },
+  {
+    "title": "Dragon and the George",
+    "author": "Gordon R. Dickson"
+  },
+  {
+    "title": "Final Encyclopedia",
+    "author": "Gordon R. Dickson"
+  },
+  {
+    "title": "Man From Earth",
+    "author": "Gordon R. Dickson"
+  },
+  {
+    "title": "Tactics of Mistake",
+    "author": "Gordon R. Dickson"
+  },
+  {
+    "title": "Red Dwarf",
+    "author": "Grant Naylor"
+  },
+  {
+    "title": "Anvil of Stars",
+    "author": "Greg Bear"
+  },
+  {
+    "title": "Darwin's Children",
+    "author": "Greg Bear"
+  },
+  {
+    "title": "Darwin's Radio",
+    "author": "Greg Bear"
+  },
+  {
+    "title": "Eon",
+    "author": "Greg Bear"
+  },
+  {
+    "title": "Eternity",
+    "author": "Greg Bear"
+  },
+  {
+    "title": "Forge of God",
+    "author": "Greg Bear"
+  },
+  {
+    "title": "Moving Mars",
+    "author": "Greg Bear"
+  },
+  {
+    "title": "Songs of Earth & Power",
+    "author": "Greg Bear"
+  },
+  {
+    "title": "Infinity Concerto",
+    "author": "Greg Bear"
+  },
+  {
+    "title": "Far Futures",
+    "author": "Gregory Benford, ed"
+  },
+  {
+    "title": "Wicked",
+    "author": "Gregory Macguire"
+  },
+  {
+    "title": "Operation Future",
+    "author": "Groff Conklin, ed"
+  },
+  {
+    "title": "Thinking Machines",
+    "author": "Groff Conklin, ed"
+  },
+  {
+    "title": "Treasury of Science Fiction",
+    "author": "Groff Conklin, ed"
+  },
+  {
+    "title": "WANT: (recommended - looking for 1 or 2 to try)",
+    "author": "Guy Gavriel Kay"
+  },
+  {
+    "title": "Merlin's Ring",
+    "author": "H. Warner Munn"
+  },
+  {
+    "title": "Time Machine",
+    "author": "H.G. Wells"
+  },
+  {
+    "title": "War of the Worlds",
+    "author": "H.G. Wells"
+  },
+  {
+    "title": "Mission of Gravity",
+    "author": "Hal Clement"
+  },
+  {
+    "title": "Mission of Gravity",
+    "author": "Hal Clement"
+  },
+  {
+    "title": "Needle",
+    "author": "Hal Clement"
+  },
+  {
+    "title": "Cleek The Man Of Forty Faces",
+    "author": "Hanshew",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Cleek of Scotland Yard",
+    "author": "Hanshew",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Cleek's Government Cases",
+    "author": "Hanshew",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Riddle of the Amber Ship",
+    "author": "Hanshew",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Riddle of the Mysterious Light",
+    "author": "Hanshew",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Riddle of the Night",
+    "author": "Hanshew",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Riddle of the Purple Emporer",
+    "author": "Hanshew",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Riddle of the Spinning Reel",
+    "author": "Hanshew",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Highway Engineers' Handbook",
+    "author": "Harger & Bonney"
+  },
+  {
+    "title": "Deal Breaker",
+    "author": "Harlan Coben"
+  },
+  {
+    "title": "Drop Shot",
+    "author": "Harlan Coben"
+  },
+  {
+    "title": "Fade Away",
+    "author": "Harlan Coben"
+  },
+  {
+    "title": "Ellison Wonderland",
+    "author": "Harlan Ellison"
+  },
+  {
+    "title": "Home-World",
+    "author": "Harry Harrison"
+  },
+  {
+    "title": "Where Atlantis Died",
+    "author": "Harry Harrison & Leon Stover"
+  },
+  {
+    "title": "Nine Mile Walk",
+    "author": "Harry Kellerman"
+  },
+  {
+    "title": "Day the Rabbi Resigned",
+    "author": "Harry Kemelman"
+  },
+  {
+    "title": "One Fine Day the Rabbi Bought a Cross",
+    "author": "Harry Kemelman"
+  },
+  {
+    "title": "That Dat the Rabbi Left Town",
+    "author": "Harry Kemelman"
+  },
+  {
+    "title": "Thursday the Rabbi Walked Out",
+    "author": "Harry Kemelman"
+  },
+  {
+    "title": "Tuesday the Rabbi Saw Red",
+    "author": "Harry Kemelman"
+  },
+  {
+    "title": "Monday the Rabbi Took Off",
+    "author": "Harry Kemelman",
+    "series": "Rabbi Small"
+  },
+  {
+    "title": "Saturday The Rabbi Went Hungry",
+    "author": "Harry Kemelman",
+    "series": "Rabbi Small"
+  },
+  {
+    "title": "Someday the Rabbi Will Leave",
+    "author": "Harry Kemelman",
+    "series": "Rabbi Small"
+  },
+  {
+    "title": "Friday the Rabbi Slept Late",
+    "author": "Harry Kemmelman",
+    "series": "Rabbi Small"
+  },
+  {
+    "title": "Sunday the Rabbi Stayed Home",
+    "author": "Harry Kemmelman",
+    "series": "Rabbi Small"
+  },
+  {
+    "title": "Bored of the Rings",
+    "author": "Harvard Lampoon"
+  },
+  {
+    "title": "Venetian Affair",
+    "author": "Helen MacInnes"
+  },
+  {
+    "title": "Bypass to Otherness",
+    "author": "Henry Kuttner"
+  },
+  {
+    "title": "In the Event of My Death",
+    "author": "Hester Bourne"
+  },
+  {
+    "title": "Rivals of Sherlock Holmes",
+    "author": "Hugh Green, ed"
+  },
+  {
+    "title": "Man With the Golden Gun",
+    "author": "Ian Fleming"
+  },
+  {
+    "title": "Octopussy",
+    "author": "Ian Fleming"
+  },
+  {
+    "title": "On Her Majesty's Secret Service",
+    "author": "Ian Fleming"
+  },
+  {
+    "title": "Blakely's Ark",
+    "author": "Ian MacMillan"
+  },
+  {
+    "title": "Kiss Before Dying",
+    "author": "Ira Levin"
+  },
+  {
+    "title": "Asimov's Mysteries",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "Caves of Steel",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "Currents of Space",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "Earth is Room Enough",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "End of Eternity",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "Fantastic Voyage",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "Forward the Foundation",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "Foundation",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "Foundation and Empire",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "Foundation's Edge",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "Gods Themselves",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "I, Robot",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "Martian Way",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "Prelude to Foundation",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "Robot Dreams",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "Robots and Empire",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "Robots of Dawn",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "Robots of Dawn",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "Second Foundation",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "Microcosmic Tales",
+    "author": "Isaac Asimov, Martin Henry Greenberg, and Joseph D. Olander"
+  },
+  {
+    "title": "Bintel Brief",
+    "author": "Isaac Metzker, ed"
+  },
+  {
+    "title": "Return",
+    "author": "Isidore Haiblum"
+  },
+  {
+    "title": "Tsaddik of the Seven Wonders",
+    "author": "Isidore Haiblum"
+  },
+  {
+    "title": "Strand Prophecy",
+    "author": "J.B.B. Winner"
+  },
+  {
+    "title": "Origin in Death",
+    "author": "J.D. Robb"
+  },
+  {
+    "title": "Voices of Time",
+    "author": "J.G. Ballard"
+  },
+  {
+    "title": "Book of Lost Tales, Part One",
+    "author": "J.R.R. Tolkein"
+  },
+  {
+    "title": "Book of Lost Tales, Part Two",
+    "author": "J.R.R. Tolkein"
+  },
+  {
+    "title": "Lays of Beleriand",
+    "author": "J.R.R. Tolkein"
+  },
+  {
+    "title": "Unfinished Tales",
+    "author": "J.R.R. Tolkein"
+  },
+  {
+    "title": "Farmer Giles of Ham",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "title": "Hobbit",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "title": "Return of the King",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "title": "Silmarillion",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "title": "Smith of Wooton Major",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "title": "Two Towers",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "title": "Future Tense",
+    "author": "Jack Vance"
+  },
+  {
+    "title": "Thinking Machine",
+    "author": "Jacques Futrelle"
+  },
+  {
+    "title": "Life for the Stars",
+    "author": "James Blish"
+  },
+  {
+    "title": "They Shall Have Stars",
+    "author": "James Blish"
+  },
+  {
+    "title": "High Place",
+    "author": "James Branch Cabell"
+  },
+  {
+    "title": "Jurgen",
+    "author": "James Branch Cabell"
+  },
+  {
+    "title": "Children of Mu",
+    "author": "James Churchward"
+  },
+  {
+    "title": "Elfin Ship",
+    "author": "James P. Blaylock"
+  },
+  {
+    "title": "Thrice Upon a Time",
+    "author": "James P. Hogan"
+  },
+  {
+    "title": "Hard Aground",
+    "author": "James W. Hall"
+  },
+  {
+    "title": "Major Operation",
+    "author": "James White"
+  },
+  {
+    "title": "Somewhere Safe with Somebody Good",
+    "author": "Jan Karon"
+  },
+  {
+    "title": "Seven Up",
+    "author": "Janet Evanovich"
+  },
+  {
+    "title": "To the Nines",
+    "author": "Janet Evanovich"
+  },
+  {
+    "title": "Norby Down to Earth",
+    "author": "Janet and Isaac Asimov"
+  },
+  {
+    "title": "Corpse on the Dike",
+    "author": "Janwillem van de Wetering"
+  },
+  {
+    "title": "Quiver Full of Arrows",
+    "author": "Jeffrey Archer"
+  },
+  {
+    "title": "Space By the Tale",
+    "author": "Jerome Bixby"
+  },
+  {
+    "title": "King David's Spaceship",
+    "author": "Jerry Pournelle"
+  },
+  {
+    "title": "Martinis & Mayhem",
+    "author": "Jessica Fletcher & Donald Bain"
+  },
+  {
+    "title": "Ironside",
+    "author": "Jim Thompson"
+  },
+  {
+    "title": "Bait of Dreams",
+    "author": "Jo Clayton"
+  },
+  {
+    "title": "Ghosthunt",
+    "author": "Jo Clayton"
+  },
+  {
+    "title": "Moongather",
+    "author": "Jo Clayton"
+  },
+  {
+    "title": "Door Into Ocean",
+    "author": "Joan Slonczewski"
+  },
+  {
+    "title": "Catch a Falling Star",
+    "author": "John Brunner"
+  },
+  {
+    "title": "Jagged Orbit",
+    "author": "John Brunner"
+  },
+  {
+    "title": "Meeting at Infinity",
+    "author": "John Brunner"
+  },
+  {
+    "title": "Times Without Number",
+    "author": "John Brunner"
+  },
+  {
+    "title": "Baron and the Stolen Legacy",
+    "author": "John Creasey"
+  },
+  {
+    "title": "Castle Dreams",
+    "author": "John DeChancie"
+  },
+  {
+    "title": "Castle Kidnapped",
+    "author": "John DeChancie"
+  },
+  {
+    "title": "Castle Murders",
+    "author": "John DeChancie"
+  },
+  {
+    "title": "Rasputin's Revenge",
+    "author": "John Lescroart"
+  },
+  {
+    "title": "Spacer: Window of the Mind",
+    "author": "John Maddox Roberts"
+  },
+  {
+    "title": "Time Slave",
+    "author": "John Norman"
+  },
+  {
+    "title": "Assassin of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Beasts of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Blood Brothers of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Captive of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Dancer of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Explorers of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Fighting Slave of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Guardsman of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Hunters of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Kajira of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Magicians of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Marauders of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Mercenaries of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Nomads of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Outlaw of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Players of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Priest-Kings of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Raiders of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Renegades of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Rogue of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Savages of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Slave Girl of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Tribesmen of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Vagabonds of Gor ",
+    "author": "John Norman",
+    "series": "Gor"
+  },
+  {
+    "title": "Essential Erasmus",
+    "author": "John P. Dolan"
+  },
+  {
+    "title": "WANT: (all Mr. Moto)",
+    "author": "John P. Marquand"
+  },
+  {
+    "title": "Last Laugh, Mr. Moto",
+    "author": "John P. Marquand"
+  },
+  {
+    "title": "Mr. Moto is So Sorry",
+    "author": "John P. Marquand"
+  },
+  {
+    "title": "Thank you, Mr. Moto",
+    "author": "John P. Marquand"
+  },
+  {
+    "title": "Think Fast, Mr. Moto",
+    "author": "John P. Marquand"
+  },
+  {
+    "title": "Your Turn, Mr. Moto",
+    "author": "John P. Marquand"
+  },
+  {
+    "title": "Day of the Triffids",
+    "author": "John Wyndham"
+  },
+  {
+    "title": "Daughter of Time",
+    "author": "Josephine Tey"
+  },
+  {
+    "title": "Miss Pym Disposes",
+    "author": "Josephine Tey"
+  },
+  {
+    "title": "Wicked Weaves",
+    "author": "Joyce Lavene"
+  },
+  {
+    "title": "Beyond Human Ken",
+    "author": "Judith Merril, ed"
+  },
+  {
+    "title": "Dagger and the Cross",
+    "author": "Judith Tarr"
+  },
+  {
+    "title": "For the Flag",
+    "author": "Jules Verne"
+  },
+  {
+    "title": "Lady of Mazes",
+    "author": "Karl Schroeder"
+  },
+  {
+    "title": "Lady of Mazes",
+    "author": "Karl Schroeder"
+  },
+  {
+    "title": "An Unmentionable Murder",
+    "author": "Kate Kingsbury"
+  },
+  {
+    "title": "Check-Out Time",
+    "author": "Kate Kingsbury"
+  },
+  {
+    "title": "Check-Out Time",
+    "author": "Kate Kingsbury"
+  },
+  {
+    "title": "Death With Reservations",
+    "author": "Kate Kingsbury"
+  },
+  {
+    "title": "Death is in the Air",
+    "author": "Kate Kingsbury"
+  },
+  {
+    "title": "Do Not Disturb",
+    "author": "Kate Kingsbury"
+  },
+  {
+    "title": "For Whom Death Tolls",
+    "author": "Kate Kingsbury"
+  },
+  {
+    "title": "Grounds for Murder",
+    "author": "Kate Kingsbury"
+  },
+  {
+    "title": "Ringing In Murder",
+    "author": "Kate Kingsbury"
+  },
+  {
+    "title": "Room with a Clue",
+    "author": "Kate Kingsbury"
+  },
+  {
+    "title": "Service for Two",
+    "author": "Kate Kingsbury"
+  },
+  {
+    "title": "Wedding Rows",
+    "author": "Kate Kingsbury"
+  },
+  {
+    "title": "WANT: (all)",
+    "author": "Kate Sedley"
+  },
+  {
+    "title": "Holy Innocents",
+    "author": "Kate Sedley"
+  },
+  {
+    "title": "Plymouth Cloak",
+    "author": "Kate Sedley"
+  },
+  {
+    "title": "Weaver's Tale",
+    "author": "Kate Sedley"
+  },
+  {
+    "title": "Witchdame",
+    "author": "Kathleen Sky"
+  },
+  {
+    "title": "Face Down in the Marrow-Bone Pie",
+    "author": "Kathy Lynn Emerson"
+  },
+  {
+    "title": "Bones to Ashes",
+    "author": "Kathy Reichs"
+  },
+  {
+    "title": "Break No Bones",
+    "author": "Kathy Reichs"
+  },
+  {
+    "title": "Death Du Jour",
+    "author": "Kathy Reichs"
+  },
+  {
+    "title": "Deja Dead",
+    "author": "Kathy Reichs"
+  },
+  {
+    "title": "Devil Bones",
+    "author": "Kathy Reichs"
+  },
+  {
+    "title": "Grave Secrets",
+    "author": "Kathy Reichs"
+  },
+  {
+    "title": "206 Bones",
+    "author": "Kathy Reichs"
+  },
+  {
+    "title": "206 Bones",
+    "author": "Kathy Reichs"
+  },
+  {
+    "title": "Galactic Diplomat",
+    "author": "Keith Laumer"
+  },
+  {
+    "title": "Other Side of TIme",
+    "author": "Keith Laumer"
+  },
+  {
+    "title": "Time Bender",
+    "author": "Keith Laumer"
+  },
+  {
+    "title": "Sky Road",
+    "author": "Ken MacLeod"
+  },
+  {
+    "title": "Red Mars",
+    "author": "Kim Stanley Robinson"
+  },
+  {
+    "title": "Lineman's and Cableman's Handbook",
+    "author": "Kurtz and Shoemaker"
+  },
+  {
+    "title": "Kingslayer",
+    "author": "L. Dean James"
+  },
+  {
+    "title": "Magic of Recluce",
+    "author": "L.E. Modesitt, Jr."
+  },
+  {
+    "title": "Barsoom Project",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Dark Piper",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Destin'y Road",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Dream Park",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Flight of the Horse",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Footfall",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Gift from Earth",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "High Sorcery",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Integral Trees",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Judgement on Janus",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Last Planet",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Magestone",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Man-Kzin Wars",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Man-Kzin Wars II",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Man-Kzin Wars III",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Man-Kzin Wars IV",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Man-Kzin Wars IX",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Man-Kzin Wars V",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Man-Kzin Wars VI",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Man-Kzin Wars VII",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Man-Kzin Wars X: The Wunder War",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Man-Kzin Wars XI",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Neutron Star",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Playgrounds of the Mind",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Protector",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Ralestone Luck",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Ringworld",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Ringworld Engineers",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Ringworld Throne",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Ringworld's Children",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Smoke Ring",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "Uncharted Stars",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "World Out of Time",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "World Out of Time",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "World of Ptavvs",
+    "author": "Larry Niven"
+  },
+  {
+    "title": "To Play the Fool",
+    "author": "Laurie R. King"
+  },
+  {
+    "title": "Lure of the Basilisk",
+    "author": "Lawrence Watt-Evans"
+  },
+  {
+    "title": "Space Doctor",
+    "author": "Lee Correy"
+  },
+  {
+    "title": "Suspicion",
+    "author": "Lee Roberts"
+  },
+  {
+    "title": "1 The Bad Beginning",
+    "author": "Lemony Snicket",
+    "series": "A Series of Unfortunate Events"
+  },
+  {
+    "title": "2 The Reptile Room",
+    "author": "Lemony Snicket",
+    "series": "A Series of Unfortunate Events"
+  },
+  {
+    "title": "3 The Wide Window",
+    "author": "Lemony Snicket",
+    "series": "A Series of Unfortunate Events"
+  },
+  {
+    "title": "4 The Miserable Mill",
+    "author": "Lemony Snicket",
+    "series": "A Series of Unfortunate Events"
+  },
+  {
+    "title": "9 The Carnivorous Carnival",
+    "author": "Lemony Snicket",
+    "series": "A Series of Unfortunate Events"
+  },
+  {
+    "title": "Billion Dollar Brain",
+    "author": "Len Deighton"
+  },
+  {
+    "title": "Counterfeits",
+    "author": "Leo F. Kelley"
+  },
+  {
+    "title": "Mitla Pass",
+    "author": "Leon Uris"
+  },
+  {
+    "title": "Chocolate Covered Murder",
+    "author": "Leslie Meier"
+  },
+  {
+    "title": "Chocolate Covered Murder",
+    "author": "Leslie Meier"
+  },
+  {
+    "title": "Turkey Day Murder",
+    "author": "Leslie Meier"
+  },
+  {
+    "title": "Private Life of the Cat Who...",
+    "author": "Lilian Jackson Braun"
+  },
+  {
+    "title": "Short & Tall Tales",
+    "author": "Lilian Jackson Braun"
+  },
+  {
+    "title": "...Ate Danish Modern",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Blew the Whistle",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Brought Down the House",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Came to Breakfast",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Could Read Backwards",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Dropped a Bombshell",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Had 14 Tales",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Had 14 Tales",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Had 60 Whiskers",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Knew Shakespeare",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Knew a Cardinal",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Lived High",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Moved a Mountain",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Played Brahms",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Played Post Office",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Robbed a Bank",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Said Cheese",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Sang for the Birds",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Saw Red",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Saw Stars",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Smelled a Rat",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Sniffed Glue",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Tailed a Thief",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Talked to Ghosts",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Turned On and Off",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Wasn't There",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Went Bananas",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Went Into the Closet",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Went Underground",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "...Went Up the Creek",
+    "author": "Lilian Jackson Braun",
+    "series": "The Cat Who..."
+  },
+  {
+    "title": "Tolkien: A Look Behind The Lord of the Rings",
+    "author": "Lin Carter"
+  },
+  {
+    "title": "Young Magicians",
+    "author": "Lin Carter, ed"
+  },
+  {
+    "title": "Entombed",
+    "author": "Linda Fairstein"
+  },
+  {
+    "title": "Shadows in Bronze",
+    "author": "Lindsey Davis"
+  },
+  {
+    "title": "Silver Pigs",
+    "author": "Lindsey Davis"
+  },
+  {
+    "title": "Summer of Love",
+    "author": "Lisa Mason"
+  },
+  {
+    "title": "Land Beyond the Gate",
+    "author": "Lloyd Arthur Eshbach"
+  },
+  {
+    "title": "Darkling Hills",
+    "author": "Lori Martin"
+  },
+  {
+    "title": "Full Spectrum",
+    "author": "Lou Aronica & Shawna McCarthy, eds"
+  },
+  {
+    "title": "Celtic Riddle",
+    "author": "Lyn Hamilton"
+  },
+  {
+    "title": "Maltese Goddess",
+    "author": "Lyn Hamilton"
+  },
+  {
+    "title": "Murder at the God's Gate",
+    "author": "Lynda S. Robinson"
+  },
+  {
+    "title": "Master of the Five Magics",
+    "author": "Lyndon Hardy"
+  },
+  {
+    "title": "Secret of the Sixth Magic",
+    "author": "Lyndon Hardy"
+  },
+  {
+    "title": "Masters of Glass",
+    "author": "M. Coleman Easton"
+  },
+  {
+    "title": "Missing Persons",
+    "author": "M. E. Rabb"
+  },
+  {
+    "title": "Astonishing Life of Octavian Nothing, Volume 1",
+    "author": "M.T. Anderson"
+  },
+  {
+    "title": "Lost in Translation",
+    "author": "Margaret Ball"
+  },
+  {
+    "title": "Clerk's Tale",
+    "author": "Margaret Frazer"
+  },
+  {
+    "title": "Maiden's Tale",
+    "author": "Margaret Frazer"
+  },
+  {
+    "title": "Novice's Tale",
+    "author": "Margaret Frazer"
+  },
+  {
+    "title": "Prioress' Tale",
+    "author": "Margaret Frazer"
+  },
+  {
+    "title": "Reeve's Tale",
+    "author": "Margaret Frazer"
+  },
+  {
+    "title": "Servant's Tale",
+    "author": "Margaret Frazer"
+  },
+  {
+    "title": "Haunted Road",
+    "author": "Margaret Sutton",
+    "series": "Judy Bolton"
+  },
+  {
+    "title": "Invisible Chimes",
+    "author": "Margaret Sutton",
+    "series": "Judy Bolton"
+  },
+  {
+    "title": "Spirit of Fog Island",
+    "author": "Margaret Sutton",
+    "series": "Judy Bolton"
+  },
+  {
+    "title": "He, She and It",
+    "author": "Marge Piercy"
+  },
+  {
+    "title": "Woman on the Edge of Time",
+    "author": "Marge Piercy"
+  },
+  {
+    "title": "Murder Takes the Veil",
+    "author": "Margeret Ann Hubbard"
+  },
+  {
+    "title": "Darkover Landfall",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Domains of Darkover",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Domains of Darkover",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Firebrand",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Forbidden Tower",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Forest House",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Four Moons of Darkover",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Free Amazons of Darkover",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Hawkmistress",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Heritage of Hastur",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Lady of Avalon",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Leroni of Darkover",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Lythande",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Mists of Avalon",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Other Side of the Mirror",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Priestess of Avalon",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Red Sun of Darkover",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Rediscovery",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Ruins of Isis",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Shadow Matrix",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Sharra's Exile",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Stormqueen!",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Thendara House",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Two to Conquer",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Witch Hill",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "Witchlight",
+    "author": "Marion Zimmer Bradley"
+  },
+  {
+    "title": "I am the Only Running Footman",
+    "author": "Martha Grimes"
+  },
+  {
+    "title": "Lamorna Wink",
+    "author": "Martha Grimes"
+  },
+  {
+    "title": "Stargazey",
+    "author": "Martha Grimes"
+  },
+  {
+    "title": "Element of Fire",
+    "author": "Martha Wells"
+  },
+  {
+    "title": "Loves Music, Loves to Dance",
+    "author": "Mary Higgins Clark"
+  },
+  {
+    "title": "Pretend You Don't See Her",
+    "author": "Mary Higgins Clark"
+  },
+  {
+    "title": "Weep No More, My Lady",
+    "author": "Mary Higgins Clark"
+  },
+  {
+    "title": "Elusive Voice",
+    "author": "Mary Jo Adamson"
+  },
+  {
+    "title": "Murder at the War",
+    "author": "Mary Monica Pulver"
+  },
+  {
+    "title": "Crystal Cave",
+    "author": "Mary Stewart"
+  },
+  {
+    "title": "Hollow Hills",
+    "author": "Mary Stewart"
+  },
+  {
+    "title": "Ivy Tree",
+    "author": "Mary Stewart"
+  },
+  {
+    "title": "Last Enchantment",
+    "author": "Mary Stewart"
+  },
+  {
+    "title": "My Brother Michael",
+    "author": "Mary Stewart"
+  },
+  {
+    "title": "Thornyhold",
+    "author": "Mary Stewart"
+  },
+  {
+    "title": "Thornyhold",
+    "author": "Mary Stewart"
+  },
+  {
+    "title": "Wicked Day",
+    "author": "Mary Stewart"
+  },
+  {
+    "title": "Curse of the Reckaviles",
+    "author": "Masterman",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Green Toad",
+    "author": "Masterman",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Wrong Letter",
+    "author": "Masterman",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "2.L.O.",
+    "author": "Masterman",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Second Stage Lensmen",
+    "author": "Masters of the Vortex"
+  },
+  {
+    "title": "Sewer, Gas & Electric",
+    "author": "Matt Ruff"
+  },
+  {
+    "title": "Except the Dying",
+    "author": "Maureen Jennings"
+  },
+  {
+    "title": "Settlers",
+    "author": "Meyer Levin"
+  },
+  {
+    "title": "Congo",
+    "author": "Michael Crichton"
+  },
+  {
+    "title": "Dark Provenance",
+    "author": "Michael David Anthony"
+  },
+  {
+    "title": "Cosi Fan Tutti",
+    "author": "Michael Dibdin"
+  },
+  {
+    "title": "Abbot's Gibbet",
+    "author": "Michael Jecks"
+  },
+  {
+    "title": "Merchant's Partner",
+    "author": "Michael Jecks"
+  },
+  {
+    "title": "Squire Throwleigh's Heir",
+    "author": "Michael Jecks"
+  },
+  {
+    "title": "Antares Passage",
+    "author": "Michael McCollum"
+  },
+  {
+    "title": "Shattered World",
+    "author": "Michael Reaves"
+  },
+  {
+    "title": "Alchemyst",
+    "author": "Michael Scott"
+  },
+  {
+    "title": "Sadar's Keep",
+    "author": "Midori Snyder"
+  },
+  {
+    "title": "Historical Whodunits",
+    "author": "Mike Ashley, ed"
+  },
+  {
+    "title": "Shelock Holmes in Orbit",
+    "author": "Mike Resnick & Martin H. Greenberg, eds"
+  },
+  {
+    "title": "Glasswritghts' Progress",
+    "author": "Mindy L. Klasky"
+  },
+  {
+    "title": "Scold's Bridle",
+    "author": "Minette Walters"
+  },
+  {
+    "title": "Arsenic and Old Books",
+    "author": "Miranda James"
+  },
+  {
+    "title": "Crewel World",
+    "author": "Monica Ferris"
+  },
+  {
+    "title": "Hanging by a Thread",
+    "author": "Monica Ferris"
+  },
+  {
+    "title": "What If...?",
+    "author": "Monica Hughes, ed"
+  },
+  {
+    "title": "White Hart",
+    "author": "Nancy Springer"
+  },
+  {
+    "title": "Jewels of Elvish",
+    "author": "Nancy V. Berberick"
+  },
+  {
+    "title": "Memoirs of a Spacewoman",
+    "author": "Naomi Mitchison"
+  },
+  {
+    "title": "Aldair in Albion",
+    "author": "Neal Barrett, Jr."
+  },
+  {
+    "title": "Pegged for Murder",
+    "author": "Ned Kelvin"
+  },
+  {
+    "title": "American Gods",
+    "author": "Neil Gaiman"
+  },
+  {
+    "title": "Crossworder's Delight",
+    "author": "Nero Blanc"
+  },
+  {
+    "title": "Enter a Murderer",
+    "author": "Ngaio Marsh"
+  },
+  {
+    "title": "False Scent",
+    "author": "Ngaio Marsh"
+  },
+  {
+    "title": "Man Lay Dead",
+    "author": "Ngaio Marsh"
+  },
+  {
+    "title": "Night at the Vulcan",
+    "author": "Ngaio Marsh"
+  },
+  {
+    "title": "Overture to Death",
+    "author": "Ngaio Marsh"
+  },
+  {
+    "title": "Origin in Death",
+    "author": "Nora Roberts"
+  },
+  {
+    "title": "Last Men in London",
+    "author": "Olaf Stapledon"
+  },
+  {
+    "title": "Last and First Men",
+    "author": "Olaf Stapledon"
+  },
+  {
+    "title": "Songmaster",
+    "author": "Orson Scott Card"
+  },
+  {
+    "title": "Speaker for the Dead",
+    "author": "Orson Scott Card"
+  },
+  {
+    "title": "Xenocide",
+    "author": "Orson Scott Card"
+  },
+  {
+    "title": "WANT: (all)",
+    "author": "P. B. Ryan"
+  },
+  {
+    "title": "Death on Beacon Hill",
+    "author": "P.B. Ryan"
+  },
+  {
+    "title": "An Unsuitable Job For a Woman",
+    "author": "P.D. James"
+  },
+  {
+    "title": "Black Tower",
+    "author": "P.D. James"
+  },
+  {
+    "title": "Certain Justice",
+    "author": "P.D. James"
+  },
+  {
+    "title": "Cover Her Face",
+    "author": "P.D. James"
+  },
+  {
+    "title": "Dead of an Expert Witness",
+    "author": "P.D. James"
+  },
+  {
+    "title": "Devices and Desires",
+    "author": "P.D. James"
+  },
+  {
+    "title": "Innocent Blood",
+    "author": "P.D. James"
+  },
+  {
+    "title": "Mind to Murder",
+    "author": "P.D. James"
+  },
+  {
+    "title": "Original Sin",
+    "author": "P.D. James"
+  },
+  {
+    "title": "Shroud for a Nightingale",
+    "author": "P.D. James"
+  },
+  {
+    "title": "Taste For Death",
+    "author": "P.D. James"
+  },
+  {
+    "title": "Unnatural Causes",
+    "author": "P.D. James"
+  },
+  {
+    "title": "Star Commandos",
+    "author": "P.M. Griffin"
+  },
+  {
+    "title": "Riddlemaster of Hed",
+    "author": "Patricia A. McKilip"
+  },
+  {
+    "title": "Forgotten Beasts of Eld",
+    "author": "Patricia A. McKillip"
+  },
+  {
+    "title": "Harpist in the Wind",
+    "author": "Patricia A. McKillip"
+  },
+  {
+    "title": "Heir of Sea and Fire",
+    "author": "Patricia A. McKillip"
+  },
+  {
+    "title": "Daughter of Witches",
+    "author": "Patricia C. Wrede"
+  },
+  {
+    "title": "House of Life",
+    "author": "Paul Brooks"
+  },
+  {
+    "title": "Engines of Dawn",
+    "author": "Paul Cook"
+  },
+  {
+    "title": "King Chondos' Ride",
+    "author": "Paul Edwin Zimmer"
+  },
+  {
+    "title": "Lost Prince",
+    "author": "Paul Edwin Zimmer"
+  },
+  {
+    "title": "Child of the Northern Spring",
+    "author": "Persia Woolley"
+  },
+  {
+    "title": "Down the Rabbit Hole",
+    "author": "Peter Abrahams"
+  },
+  {
+    "title": "Dragon's Claw",
+    "author": "Peter O'Donnell",
+    "series": "Modesty Blaise"
+  },
+  {
+    "title": "Dark Design",
+    "author": "Philip Jose Farmer"
+  },
+  {
+    "title": "Fabulous Riverboat",
+    "author": "Philip Jose Farmer"
+  },
+  {
+    "title": "Gods of Riverworld",
+    "author": "Philip Jose Farmer"
+  },
+  {
+    "title": "Magic Labyrinth",
+    "author": "Philip Jose Farmer"
+  },
+  {
+    "title": "Magic Labyrinth",
+    "author": "Philip Jose Farmer"
+  },
+  {
+    "title": "Strange Relations",
+    "author": "Philip Jose Farmer"
+  },
+  {
+    "title": "To Your Scattered Bodies Go",
+    "author": "Philip Jose Farmer"
+  },
+  {
+    "title": "Blade Runner",
+    "author": "Philip K. Dick"
+  },
+  {
+    "title": "Do Androids Dream of Electric Sheep?",
+    "author": "Philip K. Dick"
+  },
+  {
+    "title": "Eye In The Sky",
+    "author": "Philip K. Dick"
+  },
+  {
+    "title": "Game-players of Titan",
+    "author": "Philip K. Dick"
+  },
+  {
+    "title": "Man Who Japed",
+    "author": "Philip K. Dick"
+  },
+  {
+    "title": "Zap Gun",
+    "author": "Philip K. Dick"
+  },
+  {
+    "title": "Golden Compass",
+    "author": "Philip Pullman"
+  },
+  {
+    "title": "At Amberleaf Fair",
+    "author": "Phyllis Ann Karr"
+  },
+  {
+    "title": "Lady Knight",
+    "author": "Pierce"
+  },
+  {
+    "title": "Baphomet's Meteor",
+    "author": "Pierre Barbet"
+  },
+  {
+    "title": "And Eternity",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Bearing An Hourglass",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Being a Green Mother",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Castle Roogna",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Caterpillar's Question",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Centaur Aisle",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Chaining the Lady",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Chthon",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Cluster",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Color of Her Panties",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Crewel Lye",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Demons Don't Dream",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Dragon on a Pedestal",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "E.S.P. Worm",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Faith of Tarot",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "For Love of Evil",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Frances Hall",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Ghost",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "God of Tarot",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Golem in the Gears",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Harpy Thyme",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Heaven Cent",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Isle of View",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Kirlian Quest",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Macroscope",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Man from Mondania",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Night Mare",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Ogre, Ogre",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Omnivore",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "On a Pale Horse",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Orn",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Out of Phaze",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Ox",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Phaze Doubt",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Phthor",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Prosthe Plus",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Question Quest",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Race Against Time",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Ring",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Rings of Ice",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Robot Adept",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Shade of the Tree",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Source of Magic",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Spell for Chameleon",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Thousand Star",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Total Recall",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Triple Detente",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Vale of the Vole",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Viscous Circle",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Vision of Tarot",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Wielding a Red Sword",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "With a Tangled Skein",
+    "author": "Piers Anthony"
+  },
+  {
+    "title": "Principles of Box and Crate Construction",
+    "author": "Plaskett"
+  },
+  {
+    "title": "Agent of the Terran Empire",
+    "author": "Poul Anderson"
+  },
+  {
+    "title": "Brain Wave",
+    "author": "Poul Anderson"
+  },
+  {
+    "title": "Space Folk",
+    "author": "Poul Anderson"
+  },
+  {
+    "title": "Strangers From Earth",
+    "author": "Poul Anderson"
+  },
+  {
+    "title": "Tau Zero",
+    "author": "Poul Anderson"
+  },
+  {
+    "title": "There Will Be a Time",
+    "author": "Poul Anderson"
+  },
+  {
+    "title": "Penrose Mystery",
+    "author": "R. Austin Freeman"
+  },
+  {
+    "title": "Stoneware Monkey",
+    "author": "R. Austin Freeman"
+  },
+  {
+    "title": "Woods Out Back",
+    "author": "R.A. Salvatore"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury"
+  },
+  {
+    "title": "Long After Midnight",
+    "author": "Ray Bradbury"
+  },
+  {
+    "title": "Martian Chronicles",
+    "author": "Ray Bradbury"
+  },
+  {
+    "title": "Twice 22",
+    "author": "Ray Bradbury"
+  },
+  {
+    "title": "Zen in the Art of Writing",
+    "author": "Ray Bradbury"
+  },
+  {
+    "title": "Farewell, My Lovely",
+    "author": "Raymond Chandler"
+  },
+  {
+    "title": "Long Goodbye",
+    "author": "Raymond Chandler"
+  },
+  {
+    "title": "Last Templar",
+    "author": "Raymond Khoury"
+  },
+  {
+    "title": "Bones and Silence",
+    "author": "Reginald Hill"
+  },
+  {
+    "title": "WANT: (all)",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "And be a Villain",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Before Midnight",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Black Mountain",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Black Mountain",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Black Orchids",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Champagne for One",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Death Times Three",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Death on Deadline",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Fade to Black",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Father Hunt",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Father Hunt",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Fer-De-Lance",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Final Deduction",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Gambit",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Golden Spiders",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Hand in the Glove",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Homicide Trinity",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "If Death Ever Slept",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Mother Hunt",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Mountain Cat Murders",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Note Quite Dead Enough",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Over My Dead Body",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Plot It Yourself",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Red Box",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Red Threads",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Right to Die",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Rubber Band",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Second Confession",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Silent Speaker",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Some Buried Caesar",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Three At Wolfe's Door",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Three Doors to Death",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Three for the Chair",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Too Many Clients",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Triple Jeopardy",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Trouble in Triplicate - A Nero Wolfe Threesome",
+    "author": "Rex Stout"
+  },
+  {
+    "title": "Dreaming of Babylon",
+    "author": "Richard Brautigan"
+  },
+  {
+    "title": "Heat Wave",
+    "author": "Richard Castle"
+  },
+  {
+    "title": "World of Suzie Wong",
+    "author": "Richard Mason"
+  },
+  {
+    "title": "Those Idiots from Earth",
+    "author": "Richard Wilson"
+  },
+  {
+    "title": "Richmond: Scenes in the Life of a Bow Street Runner",
+    "author": "Richmond"
+  },
+  {
+    "title": "Wish You Were Here",
+    "author": "Rita Mae Brown"
+  },
+  {
+    "title": "Red Planet",
+    "author": "Robert A. Heimlein"
+  },
+  {
+    "title": "Cat Who Walks Through Walls",
+    "author": "Robert A. Heinlein"
+  },
+  {
+    "title": "Citizen of the Galaxy",
+    "author": "Robert A. Heinlein"
+  },
+  {
+    "title": "Glory Road",
+    "author": "Robert A. Heinlein"
+  },
+  {
+    "title": "Glory Road",
+    "author": "Robert A. Heinlein"
+  },
+  {
+    "title": "Have Space Suit - Will Travel",
+    "author": "Robert A. Heinlein"
+  },
+  {
+    "title": "Job: A Comedy of Justice",
+    "author": "Robert A. Heinlein"
+  },
+  {
+    "title": "Methuselah's Children",
+    "author": "Robert A. Heinlein"
+  },
+  {
+    "title": "Number of the Beast",
+    "author": "Robert A. Heinlein"
+  },
+  {
+    "title": "Rolling Stones",
+    "author": "Robert A. Heinlein"
+  },
+  {
+    "title": "Space Cadet",
+    "author": "Robert A. Heinlein"
+  },
+  {
+    "title": "Star Beast",
+    "author": "Robert A. Heinlein"
+  },
+  {
+    "title": "Time for the Stars",
+    "author": "Robert A. Heinlein"
+  },
+  {
+    "title": "Tomorrow, the Stars",
+    "author": "Robert A. Heinlein, ed"
+  },
+  {
+    "title": "Another Fine Myth",
+    "author": "Robert Asprin"
+  },
+  {
+    "title": "Dead of Winter",
+    "author": "Robert Asprin"
+  },
+  {
+    "title": "Dragon's Deal",
+    "author": "Robert Asprin"
+  },
+  {
+    "title": "Dragon's Luck",
+    "author": "Robert Asprin"
+  },
+  {
+    "title": "Hit or Myth",
+    "author": "Robert Asprin"
+  },
+  {
+    "title": "Little Myth Marker",
+    "author": "Robert Asprin"
+  },
+  {
+    "title": "M.Y.T.H Inc. in Action",
+    "author": "Robert Asprin"
+  },
+  {
+    "title": "M.Y.T.H. Inc. Link",
+    "author": "Robert Asprin"
+  },
+  {
+    "title": "Myth Conceptions",
+    "author": "Robert Asprin"
+  },
+  {
+    "title": "Myth Directions",
+    "author": "Robert Asprin"
+  },
+  {
+    "title": "Mything Persons",
+    "author": "Robert Asprin"
+  },
+  {
+    "title": "Mythnomers and Impervections",
+    "author": "Robert Asprin"
+  },
+  {
+    "title": "Phule's Company",
+    "author": "Robert Asprin"
+  },
+  {
+    "title": "Phule's Paradise",
+    "author": "Robert Asprin"
+  },
+  {
+    "title": "Phule's Paradise",
+    "author": "Robert Asprin"
+  },
+  {
+    "title": "Storm Season",
+    "author": "Robert Asprin"
+  },
+  {
+    "title": "Sweet Myth-tery of Life",
+    "author": "Robert Asprin"
+  },
+  {
+    "title": "Time Scout",
+    "author": "Robert Asprin"
+  },
+  {
+    "title": "Wings of Omen",
+    "author": "Robert Asprin"
+  },
+  {
+    "title": "Sundered Realm",
+    "author": "Robert E. Vardeman & Victor Milan"
+  },
+  {
+    "title": "Last Yggdrasill",
+    "author": "Robert F. Young"
+  },
+  {
+    "title": "Pompeii",
+    "author": "Robert Harris"
+  },
+  {
+    "title": "Lavondyss",
+    "author": "Robert Holdstock"
+  },
+  {
+    "title": "Marooned on Eden",
+    "author": "Robert L. Forward & Margaret Dodson Forward"
+  },
+  {
+    "title": "Bourne Identity",
+    "author": "Robert Ludlum"
+  },
+  {
+    "title": "Illuminatus! Trilogy",
+    "author": "Robert Shea & Robert Anton Wilson"
+  },
+  {
+    "title": "Immmortality, Inc.",
+    "author": "Robert Sheckley"
+  },
+  {
+    "title": "Journey Beyond Tomorrow",
+    "author": "Robert Sheckley"
+  },
+  {
+    "title": "Mindswap",
+    "author": "Robert Sheckley"
+  },
+  {
+    "title": "Pilgrimage to Earth",
+    "author": "Robert Sheckley"
+  },
+  {
+    "title": "Store of Infinity",
+    "author": "Robert Sheckley"
+  },
+  {
+    "title": "Time Hoppers",
+    "author": "Robert Silverberg"
+  },
+  {
+    "title": "Time of the Great Freeze",
+    "author": "Robert Silverberg"
+  },
+  {
+    "title": "Tower of Glass",
+    "author": "Robert Silverberg"
+  },
+  {
+    "title": "Up the Line",
+    "author": "Robert Silverberg"
+  },
+  {
+    "title": "Valley Beyond Time",
+    "author": "Robert Silverberg"
+  },
+  {
+    "title": "World Inside",
+    "author": "Robert Silverberg"
+  },
+  {
+    "title": "New Dimensions",
+    "author": "Robert Silverberg, ed"
+  },
+  {
+    "title": "Chinese Gold Murders",
+    "author": "Robert van Gulik"
+  },
+  {
+    "title": "Blue Sword",
+    "author": "Robin McKinley"
+  },
+  {
+    "title": "WANT: (all)",
+    "author": "Robin Paige"
+  },
+  {
+    "title": "Death at Bishop's Keep",
+    "author": "Robin Paige"
+  },
+  {
+    "title": "Death at Blenheim Palace",
+    "author": "Robin Paige"
+  },
+  {
+    "title": "Death at Daisy's Folly",
+    "author": "Robin Paige"
+  },
+  {
+    "title": "Death at Devil's Bridge",
+    "author": "Robin Paige"
+  },
+  {
+    "title": "Death at Epsom Downs",
+    "author": "Robin Paige"
+  },
+  {
+    "title": "Death at Rottingdean",
+    "author": "Robin Paige"
+  },
+  {
+    "title": "Death at Whitechapel",
+    "author": "Robin Paige"
+  },
+  {
+    "title": "Death in Hyde Park",
+    "author": "Robin Paige"
+  },
+  {
+    "title": "Cadfael Companion",
+    "author": "Robin Whiteman"
+  },
+  {
+    "title": "Dream Master",
+    "author": "Roger Zelazny"
+  },
+  {
+    "title": "Farce to be Reckoned With",
+    "author": "Roger Zelazny & Robert Sheckley"
+  },
+  {
+    "title": "Handbook of Rigging",
+    "author": "Rossnagel"
+  },
+  {
+    "title": "Adam and Eve And Pinch Me",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "Best Man to Die",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "Bridesmaid",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "Death Notes",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "Face of Trespass",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "From Doon With Death",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "Gallowglass",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "Judgement in Stone",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "Killing Doll",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "Lake of Darkness",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "Make Death Love Me",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "Master of the Moor",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "Master of the Moor",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "Murder Being Once Done",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "One Across, Two Down",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "Shake Hands Forever",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "Speaker of Mandarin",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "Talking to Strange Men",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "Talking to Strange Men",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "To Fear a Painted Devil",
+    "author": "Ruth Rendell"
+  },
+  {
+    "title": "Doorway Into Time",
+    "author": "Sam Moskowitz, ed"
+  },
+  {
+    "title": "Babel-17",
+    "author": "Samuel R. Delany"
+  },
+  {
+    "title": "Murder in the Maze",
+    "author": "Sarah J. Mason"
+  },
+  {
+    "title": "Insidious Doctor Fu-Manchu",
+    "author": "Sax Rohmer"
+  },
+  {
+    "title": "Mask of Fu Manchu",
+    "author": "Sax Rohmer"
+  },
+  {
+    "title": "6 The Bride of Fu Manchu",
+    "author": "Sax Rohmer"
+  },
+  {
+    "title": "Outcast Dove",
+    "author": "Sharan Newman"
+  },
+  {
+    "title": "Ram Song",
+    "author": "Sharon Webb"
+  },
+  {
+    "title": "Witch's Grave",
+    "author": "Shirley Damsgaard"
+  },
+  {
+    "title": "Spire",
+    "author": "Shirley Damsgaard",
+    "series": "Richard North Peterson"
+  },
+  {
+    "title": "Adventures of Mottel, the Cantor's Son",
+    "author": "Sholom Aleichem"
+  },
+  {
+    "title": "Stabbing in the Stables",
+    "author": "Simon Brett"
+  },
+  {
+    "title": "Classic Illustrated Sherlock Holmes",
+    "author": "Sir Arthur Conan Doyle"
+  },
+  {
+    "title": "Curiosity Thrilled the Cat",
+    "author": "Sofie Kelly"
+  },
+  {
+    "title": "Aquila and the Iron Horse",
+    "author": "Somtow Sucharitkul"
+  },
+  {
+    "title": "Aquila and the Sphinx",
+    "author": "Somtow Sucharitkul"
+  },
+  {
+    "title": "Aquiliad",
+    "author": "Somtow Sucharitkul"
+  },
+  {
+    "title": "Mallworld",
+    "author": "Somtow Sucharitkul"
+  },
+  {
+    "title": "WANT: (all)",
+    "author": "Stanislaw Lem"
+  },
+  {
+    "title": "Futurological Congress",
+    "author": "Stanislaw Lem"
+  },
+  {
+    "title": "His Master's Voice",
+    "author": "Stanislaw Lem"
+  },
+  {
+    "title": "Hospital of the Transfiguration",
+    "author": "Stanislaw Lem"
+  },
+  {
+    "title": "Memoirs Found in a Bathtub",
+    "author": "Stanislaw Lem"
+  },
+  {
+    "title": "Memoirs of a Space Traveler",
+    "author": "Stanislaw Lem"
+  },
+  {
+    "title": "Return from the Stars",
+    "author": "Stanislaw Lem"
+  },
+  {
+    "title": "Solaris",
+    "author": "Stanislaw Lem"
+  },
+  {
+    "title": "Star Diaries",
+    "author": "Stanislaw Lem"
+  },
+  {
+    "title": "Tales of Pirx the Pilot",
+    "author": "Stanislaw Lem"
+  },
+  {
+    "title": "Jand and the Ghosts of Netley",
+    "author": "Stephanie Barron"
+  },
+  {
+    "title": "Jane and His Lordship's Legacy",
+    "author": "Stephanie Barron"
+  },
+  {
+    "title": "Jane and the Barque of Frailty",
+    "author": "Stephanie Barron"
+  },
+  {
+    "title": "Jane and the Prisoner of Wool House",
+    "author": "Stephanie Barron"
+  },
+  {
+    "title": "Jane and the Wandering Eye",
+    "author": "Stephanie Barron"
+  },
+  {
+    "title": "Grandees",
+    "author": "Stephen Birmingham"
+  },
+  {
+    "title": "Middle-earth Quiz Book",
+    "author": "Suzanne Bucholz"
+  },
+  {
+    "title": "Assault and Pepper",
+    "author": "Tamar Myers"
+  },
+  {
+    "title": "Grape Expectations",
+    "author": "Tamar Myers"
+  },
+  {
+    "title": "Thou Shalt Not Grill",
+    "author": "Tamar Myers"
+  },
+  {
+    "title": "Fire's Stone",
+    "author": "Tanya Huff"
+  },
+  {
+    "title": "Poisoned Season",
+    "author": "Tasha Alexander"
+  },
+  {
+    "title": "Druid of Shannara",
+    "author": "Terry Brooks"
+  },
+  {
+    "title": "Elfstones of Shannara",
+    "author": "Terry Brooks"
+  },
+  {
+    "title": "First King of Shannara",
+    "author": "Terry Brooks"
+  },
+  {
+    "title": "First King of Shannara",
+    "author": "Terry Brooks"
+  },
+  {
+    "title": "Magic Kingdom for sale - sold!",
+    "author": "Terry Brooks"
+  },
+  {
+    "title": "Sword of Shannara",
+    "author": "Terry Brooks"
+  },
+  {
+    "title": "Talismans of Shannara",
+    "author": "Terry Brooks"
+  },
+  {
+    "title": "Voyage of the Jerle Shannara - Mawgawr",
+    "author": "Terry Brooks"
+  },
+  {
+    "title": "Witches' Brew",
+    "author": "Terry Brooks"
+  },
+  {
+    "title": "Medieval Lives",
+    "author": "Terry Jones"
+  },
+  {
+    "title": "Starship Titanic",
+    "author": "Terry Jones"
+  },
+  {
+    "title": "Amazing Maurice and His Educated Rodents",
+    "author": "Terry Pratchett"
+  },
+  {
+    "title": "Objects of Desire",
+    "author": "Thatcher Freund"
+  },
+  {
+    "title": "Caviar",
+    "author": "Theodore Sturgeon"
+  },
+  {
+    "title": "More Than Human",
+    "author": "Theodore Sturgeon"
+  },
+  {
+    "title": "More Than Human",
+    "author": "Theodore Sturgeon"
+  },
+  {
+    "title": "Not Without Sorcery",
+    "author": "Theodore Sturgeon"
+  },
+  {
+    "title": "Venus Plus X",
+    "author": "Theodore Sturgeon"
+  },
+  {
+    "title": "Way Home",
+    "author": "Theodore Sturgeon"
+  },
+  {
+    "title": "Arthur Rex",
+    "author": "Thomas Berger"
+  },
+  {
+    "title": "11 The Invisibility Affair",
+    "author": "Thomas Stratton",
+    "series": "The Man From U.N.C.L.E."
+  },
+  {
+    "title": "Hunt for Red October",
+    "author": "Tom Clancy"
+  },
+  {
+    "title": "Politika",
+    "author": "Tom Clancy"
+  },
+  {
+    "title": "Expecting Someone Taller",
+    "author": "Tom Holt"
+  },
+  {
+    "title": "Faust Among Equals",
+    "author": "Tom Holt"
+  },
+  {
+    "title": "Who's Afraid of Beowulf",
+    "author": "Tom Holt"
+  },
+  {
+    "title": "Who's Afraid of Beowulf?",
+    "author": "Tom Holt"
+  },
+  {
+    "title": "Fallen Man",
+    "author": "Tony Hillerman"
+  },
+  {
+    "title": "Finding Moon",
+    "author": "Tony Hillerman"
+  },
+  {
+    "title": "Hunting Badger",
+    "author": "Tony Hillerman"
+  },
+  {
+    "title": "Skeleton Man",
+    "author": "Tony Hillerman"
+  },
+  {
+    "title": "New Tolkien Companion",
+    "author": "Tyler"
+  },
+  {
+    "title": "Foucault's Pendulum",
+    "author": "Umberto Eco"
+  },
+  {
+    "title": "Island of the Day Before",
+    "author": "Umberto Eco"
+  },
+  {
+    "title": "Name of the Rose",
+    "author": "Umberto Eco"
+  },
+  {
+    "title": "Civil Engineering Handbook",
+    "author": "Urquhart"
+  },
+  {
+    "title": "Beginning Place",
+    "author": "Ursula K. Le Guin"
+  },
+  {
+    "title": "Farthest Shore",
+    "author": "Ursula K. Le Guin"
+  },
+  {
+    "title": "Lathe of Heaven",
+    "author": "Ursula K. Le Guin"
+  },
+  {
+    "title": "Left Hand of Darkness",
+    "author": "Ursula K. Le Guin"
+  },
+  {
+    "title": "Planet of Exile",
+    "author": "Ursula K. Le Guin"
+  },
+  {
+    "title": "Rocannon's World",
+    "author": "Ursula K. Le Guin"
+  },
+  {
+    "title": "Teharu",
+    "author": "Ursula K. Le Guin"
+  },
+  {
+    "title": "Deepness in the Sky",
+    "author": "Vernor Vinge"
+  },
+  {
+    "title": "Fire Upon the Deep",
+    "author": "Vernor Vinge"
+  },
+  {
+    "title": "Marooned in Realtime",
+    "author": "Vernor Vinge"
+  },
+  {
+    "title": "Rainbow's End",
+    "author": "Vernor Vinge"
+  },
+  {
+    "title": "Merder on Astor Place",
+    "author": "Victoria Thompson"
+  },
+  {
+    "title": "Murder on Astor Place",
+    "author": "Victoria Thompson"
+  },
+  {
+    "title": "Tom Jones",
+    "author": "W. Somerset Maugham, ed"
+  },
+  {
+    "title": "Modern Shipfitter's Handbook",
+    "author": "W.E. Swanson"
+  },
+  {
+    "title": "Gods, Heroes and Men of Ancient Greece",
+    "author": "W.H.D. Rouse"
+  },
+  {
+    "title": "Feathered Serpent",
+    "author": "Wallace",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Hairy Arm",
+    "author": "Wallace",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Squealer",
+    "author": "Wallace",
+    "series": "Scotland Yard Mystery Library"
+  },
+  {
+    "title": "Lost Millennium",
+    "author": "Walt and Leigh Richmond"
+  },
+  {
+    "title": "Canticle for Leibowitz",
+    "author": "Walter M. Miller, Jr."
+  },
+  {
+    "title": "View From the Stars",
+    "author": "Walter M. Miller, Jr."
+  },
+  {
+    "title": "Book of the Dun Cow",
+    "author": "Walter Wangerin, Jr."
+  },
+  {
+    "title": "Reinforcd Concrete Design",
+    "author": "Wang and Salmon"
+  },
+  {
+    "title": "Martian Odyssey",
+    "author": "Weinbaum"
+  },
+  {
+    "title": "Elfquest",
+    "author": "Wendy and Richard Pini"
+  },
+  {
+    "title": "American Civil Engineers' Handbook",
+    "author": "Wiley"
+  },
+  {
+    "title": "Surveying, Vol 1 - Elementary",
+    "author": "Wiley"
+  },
+  {
+    "title": "Surveying, Vol 2 - Higher Surveying",
+    "author": "Wiley"
+  },
+  {
+    "title": "Design/Shop Practice",
+    "author": "Wiley",
+    "series": "Kent's Mechanical Engineer's Handbook"
+  },
+  {
+    "title": "Power",
+    "author": "Wiley",
+    "series": "Kent's Mechanical Engineer's Handbook"
+  },
+  {
+    "title": "Moonstone",
+    "author": "Wilkie Collins"
+  },
+  {
+    "title": "Woman in White",
+    "author": "Wilkie Collins"
+  },
+  {
+    "title": "Impact-20",
+    "author": "William F. Nolan"
+  },
+  {
+    "title": "Logan's Run",
+    "author": "William F. Nolan"
+  },
+  {
+    "title": "Count Zero",
+    "author": "William Gibson"
+  },
+  {
+    "title": "Difference Engine",
+    "author": "William Gibson"
+  },
+  {
+    "title": "Mona Lisa Overdrive",
+    "author": "William Gibson"
+  },
+  {
+    "title": "Neuromancer",
+    "author": "William Gibson"
+  },
+  {
+    "title": "Difference Engine",
+    "author": "William Gibson & Bruce Sterling"
+  },
+  {
+    "title": "Fantasies Two",
+    "author": "William Griffith, Jr."
+  },
+  {
+    "title": "Mad Reader",
+    "author": "William M. Gaines"
+  },
+  {
+    "title": "Of Men and Monsters",
+    "author": "William Tenn"
+  },
+  {
+    "title": "Seven Sexes",
+    "author": "William Tenn"
+  },
+  {
+    "title": "Square Root of Man",
+    "author": "William Tenn"
+  },
+  {
+    "title": "Wooden Star",
+    "author": "William Tenn"
+  },
+  {
+    "title": "Tomorrow Plus X",
+    "author": "Wilson Tucker"
+  },
+  {
+    "title": "Sorcery & Cecelia",
+    "author": "Wrede & Stevermer"
+  },
+  {
+    "title": "Pilgrimage",
+    "author": "Zenna Henderson"
+  }
+]
