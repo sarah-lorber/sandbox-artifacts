@@ -3,6 +3,12 @@
     <title>V1</title>
   </head>
   <body>
+    <script>
+      onKeystroke(){
+        searchTerm = document.getElementById("searcher").value
+        resultsArray = ""
+      }
+    </script>
     <div id="searchfield">
       <input id="searcher" onkeystroke="gosearch()">What'cha lookin' for: </input>
     </div>
