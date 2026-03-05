@@ -1,17 +1,60 @@
+<!DOCTYPE html>
 <html>
   <head>
     <title>V1</title>
   </head>
   <body>
-    <script>
-      onKeystroke(){
-        searchTerm = document.getElementById("searcher").value
-        resultsArray = ""
-      }
-    </script>
     <div id="searchfield">
-      <input id="searcher" onkeystroke="gosearch()">What'cha lookin' for: </input>
+      <p>What'cha lookin' for: </p><input id="searcher" onkeydown="goSearch()"></input>
     </div>
     <div id="resultsfield"></div>
+
+    <script>
+      var allData = [];
+      var firstGo = true;
+
+      addEventListener("keydown", (event) => { })
+      onkeydown = (event) => { }
+
+      
+      function goSearch(){
+        if (firstGo == true) {allData = getTheData();
+                             firstGo = false;}
+        searchTerm = document.getElementById("searcher").value;
+window.alert(searchTerm);
+        searchIndex = searchTerm.length -1;
+        resultsfield = document.getElementById("resultsfield");
+        for (var i = 0; i < allData.length; i++) {
+          report = allData[i];
+          if (report.title[0..searchIndex] == searchTerm ){
+          resultsfield.innerHTML += "<p>Title: " + report.title + "</p>";
+        }}
+      }
+
+      function getTheData(){
+return [
+   {
+    "title": "Wooden Star",
+    "author": "William Tenn"
+  },
+  {
+    "title": "Tomorrow Plus X",
+    "author": "Wilson Tucker"
+  },
+  {
+    "title": "Sorcery & Cecelia",
+    "author": "Wrede & Stevermer"
+  },
+  {
+    "title": "Pilgrimage",
+    "author": "Zenna Henderson"
+  }
+]
+                }
+
+      function getResults(){
+        window.alert("Got results!");
+      }
+    </script>
   </body>
 </html>
