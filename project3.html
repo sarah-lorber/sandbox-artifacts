@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<!-- Used the provided template. -->
+
+<html>
+  <head>
+    <title>Movie Search</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <!-- The other stylesheet that was here was giving a console error and taking it out changed nothing, so I elected to remove it. -->
+    <link
+      href="project3.css"
+      rel="stylesheet"
+    />
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+    ></script>
+    <!-- jQuery -->
+    <script
+      src="https://code.jquery.com/jquery-3.1.1.min.js"
+      integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+      crossorigin="anonymous"
+    ></script>
+  </head>
+
+
+  <body>
+    <!-- Input Section -->
+    <div id="search">
+      <h1>OMDB Search Client</h1>
+    <p>Title: 
+    <input id = "titleField"></p>
+    <p>IMDB ID:
+      <input id="idField"></p>
+    <p></p>
+    <p>At least one of the above is required.</p>
+    <p>How much plot do you want?</p>
+    <select id="plotDropdown">
+      <option value="short">Just a bit.</option>
+      <option value="full">Everything you've got!</option>
+    </select>
+    <button onclick="getMovie()">Click Here!</button>
+  </p></div>
+  <!-- Output Section -->
+    <div id="feed"></div>
+    <script>
+      var mykey = "ebc99c89";
+      var historyList = [];
+
+      // Takes in an object called movieObject that you can get information out of to create your HTML
+      function movieObjectResponse(movieObject, testStatus, jqXHR) {
+
+        var feed = document.getElementById("feed");
+                feed.innerHTML = "";
+        if (movieObject.Year) {historyList.push(movieObject);
+        } else {
+          // This keeps it from just printing 'undefined' for each field.
+          feed.innerHTML += "<p>That doesn't match anything.  Please try again.</p><br>";
+        };
+
+        // The point here is to iterate over the list backwards, so more recently added things go first.
+        for (var i = historyList.length; i>0; i--) {
+
+        report = historyList[i-1];
+
+
+          feed.innerHTML += "<p>" + report.Title + " (" + report.Year + ") </p>";
+          feed.innerHTML += "<p>" + report.Rated + "</p>";
+
+          if (Number(report.imdbRating) > 7) {
+            feed.innerHTML += "<p style='color:green'>" + report.imdbRating + "/10 </p>";
+          } else if (Number(report.imdbRating) > 4) {
+            feed.innerHTML += "<p style='color:goldenrod'>" + report.imdbRating + "/10 </p>";
+          } else {
+            feed.innerHTML += "<p style='color:red'>" + report.imdbRating + "/10 </p>";
+          }
+
+          feed.innerHTML += "<img src=\"" + report.Poster + "\" alt=\"Movie poster for " + report.Title + ".\">";
+
+          feed.innerHTML += "<p>Runtime: " + report.Runtime + "</p>";
+          
+          feed.innerHTML += "<p>" + report.Plot + "</p>";
+
+          feed.innerHTML += "<hr>";
+        };
+
+        }
+
+      // This will call the API and send the object to your movieObjectResponse
+      function getMovie() {
+        var apiURL = "http://www.omdbapi.com/";
+
+        var titleSearch = document.getElementById("titleField").value;
+        if (titleSearch) {
+          apiURL += "?t=" + titleSearch;
+        }
+        var idSearch = document.getElementById("idField").value;
+        if (idSearch) {
+          if (titleSearch) {
+            apiURL += "&";
+          } else {
+            apiURL += "?";
+          };
+          apiURL += "i=" + idSearch;
+        }
+
+        // Got help from my dad debugging this code block.
+        var plotToggle = document.getElementById("plotDropdown").value;
+        if (plotToggle == "full") {apiURL += "&plot=full";}
+        else {apiURL += "&plot=short";};
+
+        apiURL += "&apikey=" + mykey;
+
+        http: $.ajax({
+          url: apiURL,
+          dataType: "json",
+          type: "get",
+          success: movieObjectResponse,
+          failure: function () {
+            window.alert("Failed connecting to feed!");
+          },
+        });
+      }
+    </script>
+  </body>
+</html>
