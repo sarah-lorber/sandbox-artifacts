@@ -3,7 +3,10 @@ var firstGo = true;
 
 addEventListener("keydown", (event) => { })
 onkeydown = (event) => { }
-      
+
+// switch to onchange
+
+
 function goSearch(){
   if (firstGo == true) {allData = getTheData();
     firstGo = false;}
@@ -18,6 +21,10 @@ function goSearch(){
       resultsfield.innerHTML += "<p>Title: " + report.title + " (" + report.author + ")" + "</p>";
       }}
 }
+
+
+// im
+// const [search, setSearch] = useState();
 
 // searchTerm is in report.title
 // if (where-object $_.title -ilike "[searchTerm]****") would return it
