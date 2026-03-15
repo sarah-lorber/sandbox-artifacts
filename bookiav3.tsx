@@ -1,0 +1,230 @@
+// this is the source for all the files from the to-do list project
+// saved as a txt file since it's lots of files in one
+
+// view for search area
+// scrollview for display area
+// turn test data into show all books?
+// (see if that crashes it?)
+
+// something's got a responsive text input - which?
+// was that the thing that made me think i didn't need regex?
+
+//app.tsx: 
+import React, {useState} from 'react';
+import {View, Text, TextInput, Button, ScrollView} from 'react-native';
+import { TestDataButton } from './components/TestDataButton';
+
+interface Todo {
+  id: number;
+  text: string;
+  completed: boolean;
+}
+
+interface Book {
+	title: string;
+	author: string;
+}
+
+export default function App() {
+  const [todoText, setTodoText]: string = useState('');
+  const [todos, setTodos]: Todo[] = useState([]);
+
+  const addTodo = (): void => {
+    if (todoText.trim() !== '') {
+      const newTodo: Todo = {
+        id: Date.now(),
+        text: todoText,
+        completed: false
+      };
+      setTodos([...todos, newTodo]);
+      setTodoText('');
+    }
+  };
+
+  const toggleTodo = (id: number): void => {
+    setTodos(todos.map(todo => {
+      if (todo.id === id) {
+        return { ...todo, completed: !todo.completed };
+      }
+      return todo;
+    }));
+  };
+
+  return (
+    <View>
+    <Text>My To-do List</Text>
+    <TextInput
+      value={todoText}
+      onChangeText={setTodoText}
+      placeholder="Enter a new to-do"
+     />
+     <Button 
+      title="Add To-do"
+      onPress={addTodo}
+     />
+     <TestDataButton onAddTestData={setTodos} />
+     <Text>Tasks:</Text>
+     <ScrollView style={{maxHeight: 400}}>
+      { (todos.length == 0) ? (<Text>No to-dos yet.  Add one above!</Text>) : (todos.map((todo: Todo) => (
+        <View key={todo.id}><Text onPress={() => toggleTodo(todo.id)}>{todo.completed === true ? 'x' : 'o'} {todo.text}</Text></View>
+      )
+      )
+      )}
+     </ScrollView>
+     <View><Text>Total: {todos.length}</Text>
+     <Text>Completed: {todos.filter((todo: Todo) => todo.completed === true).length
+}</Text></View>
+    </View>
+  );
+}
+
+//app.json:
+{
+  "expo": {
+    "name": "TodoListApp",
+    "slug": "TodoListApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+  
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true
+    }
+  }
+}
+
+
+// babel.config.js:
+module.exports = function(api) {
+    api.cache(true);
+    return {
+      presets: ['babel-preset-expo'],
+    };
+  };
+
+
+// index.ts:
+import { registerRootComponent } from 'expo';
+
+import App from './App';
+
+// registerRootComponent calls AppRegistry.registerComponent('main', () => App);
+// It also ensures that whether you load the app in Expo Go or in a native build,
+// the environment is set up appropriately
+registerRootComponent(App);
+
+// jest.config.js:
+module.exports = {
+    preset: "react-native",
+    setupFilesAfterEnv: ["@testing-library/jest-native/extend-expect"]
+  };
+
+
+// package.json:
+{
+  "name": "todolistapp",
+  "license": "0BSD",
+  "version": "53.0.27",
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~53.0.9",
+    "expo-status-bar": "~2.2.3",
+    "react": "19.0.0",
+    "react-native": "0.79.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@types/react": "~19.0.10",
+    "@types/react-native": "^0.72.8",
+    "typescript": "~5.8.3"
+  }
+}
+
+
+// tsconfig.json:
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true
+  }
+}
+
+
+// /components/TestDataButton.tsx:
+import React from 'react';
+import { Button } from 'react-native';
+
+interface Todo {
+  id: number;
+  text: string;
+  completed: boolean;
+}
+
+interface TestDataButtonProps {
+  onAddTestData: (todos: Todo[]) => void;
+}
+
+export const TestDataButton = ({ onAddTestData }: TestDataButtonProps): React.JSX.Element => {
+  const handleAddTestData = (): void => {
+    const testTodos: Todo[] = [
+      { id: 1, text: 'Buy groceries', completed: false },
+      { id: 2, text: 'Walk the dog', completed: true },
+      { id: 3, text: 'Finish report', completed: false },
+      { id: 4, text: 'Call mom', completed: true },
+      { id: 5, text: 'Clean house', completed: false },
+      { id: 6, text: 'Read novel', completed: false },
+      { id: 7, text: 'Go to gym', completed: true },
+      { id: 8, text: 'Plan trip', completed: false },
+      { id: 9, text: 'Fix lamp', completed: false },
+      { id: 10, text: 'Learn TypeScript', completed: true },
+      { id: 11, text: 'Organize photos', completed: false },
+      { id: 12, text: 'Write blog post', completed: false },
+      { id: 13, text: 'Update resume', completed: true },
+      { id: 14, text: 'Plant flowers', completed: false },
+      { id: 15, text: 'Book dentist', completed: false },
+      { id: 16, text: 'Compare insurance', completed: false },
+      { id: 17, text: 'Donate clothes', completed: true },
+      { id: 18, text: 'Learn recipes', completed: false },
+      { id: 19, text: 'Set up bills', completed: false },
+      { id: 20, text: 'Clean fridge', completed: true },
+      { id: 21, text: 'Plan vacation', completed: false },
+      { id: 22, text: 'Update apps', completed: false },
+      { id: 23, text: 'Practice guitar', completed: true },
+      { id: 24, text: 'Backup files', completed: false },
+      { id: 25, text: 'Book checkup', completed: false },
+      { id: 26, text: 'Start course', completed: false },
+      { id: 27, text: 'Clean garage', completed: true },
+      { id: 28, text: 'Create budget', completed: false },
+      { id: 29, text: 'Find volunteer work', completed: false },
+      { id: 30, text: 'Update LinkedIn', completed: true },
+      { id: 31, text: 'Meal prep', completed: false },
+      { id: 32, text: 'Compare streaming', completed: false },
+      { id: 33, text: 'Sort documents', completed: true },
+      { id: 34, text: 'Learn repairs', completed: false },
+      { id: 35, text: 'Prep emergency kit', completed: false },
+      { id: 36, text: 'Research retirement', completed: false },
+      { id: 37, text: 'Car maintenance', completed: true },
+      { id: 38, text: 'Learn meditation', completed: false },
+      { id: 39, text: 'Visit markets', completed: false },
+      { id: 40, text: 'Check home security', completed: true },
+    ];
+    onAddTestData(testTodos);
+  };
+
+  return (
+    <Button
+      title="Add Test Data"
+      onPress={handleAddTestData}
+    />
+  );
+};
