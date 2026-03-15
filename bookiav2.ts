@@ -1,5 +1,10 @@
-var allData = [];
+var allData: Book[] = [];
 var firstGo: boolean = true;
+
+type Book {
+  title: string,
+  author: string
+}
 
 addEventListener("keydown", (event) => { })
 onkeydown = (event) => { }
