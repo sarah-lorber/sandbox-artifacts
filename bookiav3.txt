@@ -185,6 +185,12 @@ interface TestDataButtonProps {
   onAddTestData: (todos: Todo[]) => void;
 }
 
+
+BOOKDATA_ENTRY("Lilian Jackson Braun|The Cat Who...||...Ate Danish Modern")
+for loop
+id i
+get the string table, save as txt, run through python to get plug into below
+
 export const TestDataButton = ({ onAddTestData }: TestDataButtonProps): React.JSX.Element => {
   const handleAddTestData = (): void => {
     const testTodos: Todo[] = [
