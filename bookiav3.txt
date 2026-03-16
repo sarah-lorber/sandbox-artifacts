@@ -3,7 +3,7 @@
 // can I plop these into the expo browser thing? that /might/ work?
 // https://snack.expo.dev/
 
-// view for search area
+// keyboardavoidingview for search area
 // scrollview for display area
 // turn test data into show all books?
 // (see if that crashes it?)
@@ -11,6 +11,7 @@
 // search as character array explicitly?
 // backspace like back button on web browser - replicate how?
 	// is there an opensource browser I can look at? (opera?)
+// add id numbers to book data?
 
 // something's got a responsive text input - which?
 // was that the thing that made me think i didn't need regex?
@@ -28,6 +29,7 @@ interface Todo {
 }
 
 interface Book {
+	id: number;
 	title: string;
 	author: string;
 }
