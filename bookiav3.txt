@@ -31,7 +31,8 @@ interface Todo {
 interface Book {
 	id: number;
 	title: string;
-	author: string;
+	author?: string;
+	series?: string;
 }
 
 export default function App() {
