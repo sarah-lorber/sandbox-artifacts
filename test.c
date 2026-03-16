@@ -9,7 +9,7 @@ main(){
 	int x;
 	const char **p = data;
 	while(*p){
-		printf("[%ld] %s\n",p-data,*p);
+		printf("%ld %s\n",p-data,*p);
 		p++;
 	}
 }
