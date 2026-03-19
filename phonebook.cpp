@@ -63,3 +63,34 @@ int main()
     // YOUR CODE PART 3
     cout << "Thank you!\n";
 }
+
+
+
+chatgpt fixed it:
+vector<PhoneRecord> yellow;
+string line;
+// FIXED file reading
+while (getline(fin, line)) {
+    PhoneRecord newRecord;
+    newRecord.name = line;
+
+    if (!getline(fin, newRecord.number)) break;
+
+    yellow.push_back(newRecord);
+}
+// FIXED input
+string search;
+cout << "Who are you looking for: ";
+cin.ignore();
+getline(cin, search);
+// SEARCH
+bool found = false;
+for (int i = 0; i < yellow.size(); i++) {
+    if (yellow[i].name == search) {
+        cout << yellow[i].number << endl;
+        found = true;
+    }
+}
+if (!found) {
+    cout << "No match found." << endl;
+}
