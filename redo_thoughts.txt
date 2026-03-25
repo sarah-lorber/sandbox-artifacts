@@ -1,0 +1,77 @@
+// What do I actually want to do with this app?
+// responsive search box - no submit button
+// show books with a field that contains search string
+// title is only required field
+// only search successively on previous search's results
+// save the previous searches to go back to
+// only check the field every so often - don't try to keep up with dad's ridiculous typing speed
+// simple, dark teal and white, (indigo accent?) ability to make text larger - can he even read at my default size?
+// keyboard should shove result field up so you can view the whole thing
+// portrait lock for now
+// display tags with the series if the entry has either
+// get book data how? from where? when?
+// does the show all data function actually help anything other than proving that the app really can handle that many list items?
+// how does json.parse() handle missing ("missing"?) fields?  (if the interface things are optional it should be fine?)
+
+
+// imports
+// 
+// interface book
+// 
+// query the json
+// 
+// view
+// textinput
+// 
+// flatlist (instead of scrollview)
+// 
+//
+//
+
+
+// querying a json array
+/*
+interface Video {
+  id: number;
+  title: string;
+  rating: number;
+}
+
+const newReleases: Video[] = [
+  { "id": 70111470, "title": "Die Hard", "rating": 4.0 },
+  { "id": 654356453, "title": "Bad Boys", "rating": 5.0 },
+  { "id": 65432445, "title": "The Chamber", "rating": 4.0 },
+  { "id": 675465, "title": "Fracture", "rating": 5.0 }
+];
+
+// Query: Find all movies with a rating of 5.0
+const highRated = newReleases.filter(movie => movie.rating === 5.0);
+console.log(highRated);
+
+// Query: Extract only the 'id' and 'title' into a new array (projection)
+const titlesAndIds = newReleases.map(movie => ({ id: movie.id, title: movie.title }));
+console.log(titlesAndIds);
+*/
+
+
+// querying an external json
+/*
+async function fetchUser(url: string) {
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    const data: User = await response.json(); // Type assertion here
+    return data;
+  } catch (error) {
+    console.error("Error fetching or parsing user data:", error);
+  }
+}
+
+
+const user = await fetchUser('https://api.example.com');
+if (user) {
+  console.log(user.name);
+}
+*/
