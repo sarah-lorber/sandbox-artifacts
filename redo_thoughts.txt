@@ -29,6 +29,11 @@
 // make sure python gives precisely the json I want to use
 // this just needs to be done beforehand at the moment
 
+// use todo list example to add books to list
+// use file i/o to keep full list in the json?
+
+// make a folder to keep audit trail separate from active files, clean off metaphorical desk
+
 // imports
 //
 // state hook setup
