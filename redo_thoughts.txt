@@ -25,8 +25,9 @@
 // search string 2 searches first level, saves results as second level
 // backspace goes down a level, searched field becomes result field again
 // backspacing to 0 goes back to the json
-
-
+//
+// make sure python gives precisely the json I want to use
+// this just needs to be done beforehand at the moment
 
 // imports
 //
