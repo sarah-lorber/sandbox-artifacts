@@ -1,0 +1,102 @@
+// What do I actually want to do with this app?
+// responsive search box - no submit button
+// show books with a field that contains search string
+// title is only required field
+// only search successively on previous search's results
+// save the previous searches to go back to
+// only check the field every so often - don't try to keep up with dad's ridiculous typing speed
+// keyboard should shove result field up so you can view the whole thing
+// portrait lock for now
+// display tags with the series if the entry has either
+// get book data how? from where? when?
+// does the show all data function actually help anything other than proving that the app really can handle that many list items? no? away it goes!
+// how does json.parse() handle missing ("missing"?) fields?  (if the interface things are optional it should be fine?)
+
+// style
+// border around input box so it's not white on white
+// dark teal and white, indigo accents
+// text size might default to settings?
+
+// implementation
+// int var counting length of string, puts search list in that index of an array, then backspace makes it var-1
+// only actually query the json if length now is 1 from 0 (meaning not a 2 then backspace) 
+// search string 0 is the entire json, no point in saving it locally
+// search string 1 is result of first search saved as first level
+// search string 2 searches first level, saves results as second level
+// backspace goes down a level, searched field becomes result field again
+// backspacing to 0 goes back to the json
+//
+// make sure python gives precisely the json I want to use
+// this just needs to be done beforehand at the moment
+
+// use todo list example to add books to list
+// use file i/o to keep full list in the json?
+
+// make a folder to keep audit trail separate from active files, clean off metaphorical desk
+
+// imports
+//
+// state hook setup
+// 
+// interface book
+// 
+// setup the event handler here
+//
+// query the json
+// save result as 
+// 
+// view
+// textinput
+// 
+// flatlist (instead of scrollview)
+// 
+//
+//
+
+
+// querying a json array
+/*
+interface Video {
+  id: number;
+  title: string;
+  rating: number;
+}
+
+const newReleases: Video[] = [
+  { "id": 70111470, "title": "Die Hard", "rating": 4.0 },
+  { "id": 654356453, "title": "Bad Boys", "rating": 5.0 },
+  { "id": 65432445, "title": "The Chamber", "rating": 4.0 },
+  { "id": 675465, "title": "Fracture", "rating": 5.0 }
+];
+
+// Query: Find all movies with a rating of 5.0
+const highRated = newReleases.filter(movie => movie.rating === 5.0);
+console.log(highRated);
+
+// Query: Extract only the 'id' and 'title' into a new array (projection)
+const titlesAndIds = newReleases.map(movie => ({ id: movie.id, title: movie.title }));
+console.log(titlesAndIds);
+*/
+
+
+// querying an external json
+/*
+async function fetchUser(url: string) {
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    const data: User = await response.json(); // Type assertion here
+    return data;
+  } catch (error) {
+    console.error("Error fetching or parsing user data:", error);
+  }
+}
+
+
+const user = await fetchUser('https://api.example.com');
+if (user) {
+  console.log(user.name);
+}
+*/
