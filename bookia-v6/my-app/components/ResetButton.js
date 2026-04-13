@@ -68,7 +68,7 @@ export default function ResetButton({ onReset }) {
 
 const styles = StyleSheet.create({
   button: {
-    backgroundColor: '#e53935',
+    backgroundColor: '#456d9c',
     paddingVertical: 12,
     paddingHorizontal: 24,
     borderRadius: 8,
@@ -77,10 +77,10 @@ const styles = StyleSheet.create({
     minWidth: 140,
   },
   buttonDisabled: {
-    backgroundColor: '#ef9a9a',
+    backgroundColor: '#456d9c',
   },
   label: {
-    color: '#fff',
+    color: '#eff2f7',
     fontSize: 16,
     fontWeight: '600',
   },

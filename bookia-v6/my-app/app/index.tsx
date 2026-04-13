@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     justifyContent: 'flex-start',
-    backgroundColor: 'indigo',
+    backgroundColor: '#54a04e',
     paddingTop: 100,
     padding: 8,
   },
